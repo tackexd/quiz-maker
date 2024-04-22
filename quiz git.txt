@@ -1,0 +1,45 @@
+01. Duotos dvi skaičių aibės $A = \{-5; -1; 0; 2; 3; 5; 7\}$ ir $A = \{-5; -2; 0; 1; 7; 9\}$. Nustatykite, kiek elementų priklauso aibių $A$ ir $B$ sąjungai.
+A 3
+B 7
+*C 10
+D 13
+
+
+
+
+
+02. Kuriame paveiksle pavaizduotas funkcijos $y = 2^x$ grafiko eskizas? [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_2.png?raw=true)
+A
+B
+C
+*D
+
+
+
+
+
+03. Buvo apklausti vienos klasės mokiniai, kiek valandų per savaitę jie sportuoja. Lentelėje pateikti šios apklausos rezultatai. Nustatykite laiko, kurį mokinys skiria sportui, imties medianą. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_3.png?raw=true)
+A 2 val.
+*B 3,5 val.
+C 4 val.
+D 5,5 val.
+
+
+
+
+
+04. Durų kodą turi sudaryti trys simboliai. Pirmasis simbolis turi būti viena iš trijų raidžių: $A$, $B$ arba $C$, o kiti du simboliai – bet kurie skaitmenys (pvz., $A16$, $B77$, $C09$ ir t. t.). Kiek tokių skirtingų kodų galima sudaryti?
+A 150
+B 243
+C 270
+*D 300
+
+
+
+
+
+05. Paveiksle pavaizduotas vienetinis apskritimas, kurio centras yra taškas $O$. Remdamiesi paveikslu, nustatykite taško M koordinates. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_5.png?raw=true)
+A $\left(-\frac{1}{2}; \frac{1}{2}\right)$
+B $\left(-\frac{1}{2}; \frac{\sqrt{3}}{2}\right)$
+*C $\left(-\frac{\sqrt{3}}{2}; \frac{1}{2}\right)$
+D $\left(-\frac{\sqrt{3}}{2}; \frac{\sqrt{3}}{2}\right)$
