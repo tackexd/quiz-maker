@@ -1,0 +1,318 @@
+01. Duotos dvi skaičių aibės $A = \{-5; -1; 0; 2; 3; 5; 7\}$ ir $A = \{-5; -2; 0; 1; 7; 9\}$. Nustatykite, kiek elementų priklauso aibių $A$ ir $B$ sąjungai.
+A 3
+B 7
+*C 10
+D 13
+
+
+
+
+
+02. Kuriame paveiksle pavaizduotas funkcijos $y = 2^x$ grafiko eskizas? [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_2.png?raw=true)
+A
+B
+C
+*D
+
+
+
+
+
+03. Buvo apklausti vienos klasės mokiniai, kiek valandų per savaitę jie sportuoja. Lentelėje pateikti šios apklausos rezultatai. Nustatykite laiko, kurį mokinys skiria sportui, imties medianą. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_3.png?raw=true)
+A 2 val.
+*B 3,5 val.
+C 4 val.
+D 5,5 val.
+
+
+
+
+
+04. Durų kodą turi sudaryti trys simboliai. Pirmasis simbolis turi būti viena iš trijų raidžių: $A$, $B$ arba $C$, o kiti du simboliai – bet kurie skaitmenys (pvz., $A16$, $B77$, $C09$ ir t. t.). Kiek tokių skirtingų kodų galima sudaryti?
+A 150
+B 243
+C 270
+*D 300
+
+
+
+
+
+05. Paveiksle pavaizduotas vienetinis apskritimas, kurio centras yra taškas $O$. Remdamiesi paveikslu, nustatykite taško M koordinates. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_5.png?raw=true)
+A $\left(-\frac{1}{2}; \frac{1}{2}\right)$
+B $\left(-\frac{1}{2}; \frac{\sqrt{3}}{2}\right)$
+*C $\left(-\frac{\sqrt{3}}{2}; \frac{1}{2}\right)$
+D $\left(-\frac{\sqrt{3}}{2}; \frac{\sqrt{3}}{2}\right)$
+
+
+
+
+
+06. Paveiksle pavaizduotas žaidimo ratas, padalytas į tris vienodus sektorius. Vienas iš jų pažymėtas skaičiumi $1$, kitas – skaičiumi $2$, o trečias – skaičiumi $3$. Rato rodyklė sukama du kartus ir kiekvieną kartą užrašoma, kuriuo skaičiumi pažymėtame sektoriuje ji atsitiktinai sustoja (ant sektorių ribos rodyklė sustoti negali). Apskaičiuokite tikimybę, kad užrašytų skaičių suma bus lygi $5$. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_6.png?raw=true)
+A $\frac{1}{6}$
+B $\frac{1}{9}$
+*C $\frac{2}{9}$
+D $\frac{2}{3}$
+
+
+
+
+
+07. Kuriuo atveju abi nurodytos funkcijos yra lyginės?
+A $f(x) = 2^x$ ir $g(x) = |x|$
+*B $g(x) = |x|$ ir $k(x) = \frac{1}{x^2 + 1}$
+C $g(x) = |x|$ ir $h(x) = \sqrt[3]{x}$
+D $f(x) = 2^x$ ir $k(x) = \frac{1}{x^2 + 1}$
+
+
+
+
+
+08. Paveiksle pavaizduotas kubas $ABCDA_{1}B_{1}C_{1}D_{1}$, kurio kraštinės ilgis lygus $1$. Nustatykite kampo tarp tiesės $D_{1}A$ ir tiesės $AB$ didumą. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_8.png?raw=true)
+*A $90^\circ$
+B $60^\circ$
+C $45^\circ$
+D $30^\circ$
+
+
+
+
+
+09. Kvadratinė lygtis $x^2 - (p - 6)x + q = 0$ turi du skirtingus realiuosius sprendinius $x = p$ ir $x = q$, nelygius nuliui. Apskaičiuokite $p + q$.
+A $-7$
+B $-6$
+*C $-5$
+D $-4$
+
+
+
+
+
+11. Paveiksle pavaizduotas trikampis $ABC$. Yra žinoma, kad $AC = 6$, $BC = 8$, o $sin \angle ACB =  \frac{3}{4}$. Apskaičiuokite trikampio $ABC$ plotą. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_11.png?raw=true)
+A 36
+B 24
+*C 18
+D 48
+
+
+
+
+
+12.1. Paveiksle pavaizduotas apskritimas, kurio centras yra taškas $O$. Taškai $A$, $B$ ir $C$ priklauso šiam apskritimui. Trikampis $ABC$ yra lygiakraštis. Apskaičiuokite kampo $AOB$ didumą. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_12.png?raw=true)
+A $100^\circ$
+*B $120^\circ$
+C $90^\circ$
+D $60^\circ$
+
+
+
+
+
+12.2. Paveiksle pavaizduotas apskritimas, kurio centras yra taškas $O$. Taškai $A$, $B$ ir $C$ priklauso šiam apskritimui. Trikampis $ABC$ yra lygiakraštis. Yra žinoma, kad apskritimo spindulio ilgis lygus $2\sqrt{3}$. Apskaičiuokite trikampio $ABC$ kraštinės ilgį. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_12.png?raw=true)
+A $2\sqrt{3}$
+B $sqrt{3}$
+C 3
+*D 6
+
+
+
+
+
+13.1. Aritmetinės progresijos n-tojo nario formulė yra $a_n = 21 - 3n$. Apskaičiuokite šios progresijos pirmąjį narį.
+A 1
+B 21
+C 0
+*D 18
+
+
+
+
+
+13.2. Aritmetinės progresijos n-tojo nario formulė yra $a_n = 21 - 3n$. Yra žinoma, kad $a_k = -36$. Apskaičiuokite k reikšmę.
+A 22
+*B 19
+C -19
+D -22
+
+
+
+
+
+14.1. Išspręskite lygtį: $3^{1-x} = 27$.
+A -1
+*B -2
+C 4
+D 3
+
+
+
+
+
+14.2. Išspręskite lygtį: $tg(3x) = 1$.
+A $\frac{8\pi n +\pi}{12}, n \in Z$
+B $\frac{4\pi n +\pi}{24}, n \in Z$
+C $\frac{8\pi n +\pi}{24}, n \in Z$
+*D $\frac{4\pi n +\pi}{12}, n \in Z$
+
+
+
+
+
+14.3. Išspręskite lygtį: $e^{x^{2}} = 2$.
+*A $\sqrt{ln(2)}$ ir $-\sqrt{ln(2)}$
+B $\sqrt{ln(2)}$
+C $-\sqrt{ln(2)}$
+D $ln(2)$
+
+
+
+
+
+15. Dėžėje yra vienodo dydžio raudonų ir baltų rutulių. Atsitiktinai iš dėžės traukiamas vienas rutulys. Atsitiktinai iš dėžės traukiamas vienas rutulys. Tikimybė, kad jis bus raudonas, lygi $\frac{2}{5}$. Apskaičiuokite, kiek kartų pradinis baltų rutulių skaičius dėžėje yra didesnis už pradinį raudonų rutulių skaičių.
+A 3
+B 2
+C 0,6
+*D 1,5
+
+
+
+
+
+16. Garso, kurį girdi žmogus, intensyvumo lygį D decibelais (dB) galima apskaičiuoti pagal formulę $D = 10 \cdot lg(I \cdot 10^{12})$; čia I - garso stipris $(W/m^2)$. Žmogus žadintuvo garsą girdi 70 dB intensyvumu. Apskaičiuokite šio žadintuvo garso stiprį I$(W/m^2)$.
+A $10^{7} W/m^2$
+B $10^{5} W/m^2$
+C $10^{-7} W/m^2$
+*D $10^{-5} W/m^2$
+
+
+
+
+
+17. Ingos penktadienio pamokų tvarkaraštyje turi būti šešios pamokos: dvi matematikos ir po vieną biologijos, istorijos, etikos bei anglų kalbos. Keliais skirtingais būdais galima sudaryti Ingos penktadienio pamokų tvarkaraštį, jeigu abi matematikos pamokos privalo eiti iš eilės?
+A 240
+B 720
+*C 120
+D 60
+
+
+
+
+
+18. Nustatykite funkcijos $f(x) = 1 - sin^2 x \cdot cos^2 x$
+*A [0,75; 1]
+B [0,5; 1]
+C [1; 1,5]
+D [0; 1]
+
+
+
+
+
+19. Parduotuvėje naujas telefonas kainuoja 640 eurų. Įsigyto telefono vertė (eurais) po metų sumažėja $30 %$, o paskui kasmet mažėja po $15 %$ nuo paskutinių praėjusių metų vertės. Apskaičiuokite, kokia bus įsigyto telefono vertė po trejų metų.
+A 275,128 eurų
+B 380,8 eurų
+*C 323,68 eurų
+D 448 eurų
+
+
+
+
+
+20.1. Duotas reiškinys $\log_{0,3} (2 - 3x) - \log_{0,3} (4 + x)$. Nustatykite šio reiškinio apibrėžimo sritį.
+A $x \in (\frac{2}{3}, \infty)$
+B $x \in R$
+*C $x \in (-4, \frac{2}{3})$
+D $x \in (-4, 2)$
+
+
+
+
+
+20.2. Išspręskite nelygybę $\log_{0,3} (2 - 3x) \geq \log_{0,3} (4 + x)$.
+*A $x \in [-\frac{1}{2}; \frac{2}{3})$
+B $x \in (-4;-\frac{1}{2})$
+C $x \in [-\frac{1}{2}; 2)$
+D $x \in [-\frac{1}{2}; \infty)$
+
+
+
+
+
+21.1. Duota funkcija $f(x) = -x^3 + 3x^2 + 9x + 4$. Raskite šios funkcijos išvestinę $f'(x)$.
+A $9 + 3 x - 3 x^2$
+B $13 + 6 x - 3 x^2$
+*C $9 + 6 x - 3 x^2$
+D $9 + 3 x -  x^2$
+
+
+
+
+
+21.2. Duota funkcija $f(x) = -x^3 + 3x^2 + 9x + 4$. Nustatykite x reikšmes, su kuriomis funkcijos $y = f(x)$ reikšmės mažėja.
+A $x \in (-\infty; -1)$
+*B $x \in (-\infty; -1) \cup (3; \infty)$
+C $x \in (3; \infty)$
+D $x \in (-1; 3)$
+
+
+
+
+
+21.3. Duota funkcija $f(x) = -x^3 + 3x^2 + 9x + 4$. Paveiksle pavaizduoti funkcijos $f(x) = -x^3 + 3x^2 + 9x + 4$ grafikas (kai $x \geq 0$) ir grafiko liestinė taške, kurio abscisė lygi 3. Funkcijos grafiko, jo liestinės ir Oy ašies ribojama figūra (kai $x \geq 0$) nuspalvinta pilkai. Apskaičiuokite šios figūros plotą. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_21.png?raw=true)
+A $59\frac{1}{4}$
+B $93$
+C $51\frac{3}{4}$
+*D $33\frac{3}{4}$
+
+
+
+
+
+22. Paveiksle pavaizduota stačioji trapecija ABCD ($AB \parallel CD$, $\angle BCD = 90^\circ$). Yra žinoma, kad $AB = 25$, $BC = 12$, $CD =16$ ir $DA = 15$. Apskaičiuokite vektorių \vec{AB} ir \vec{AD} skaliarinę sandaugą. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_22.png?raw=true)
+*A 225
+B 375
+C 300
+D 325
+
+
+
+
+
+23.1. Paveiksle pavaizduotos stačiosios prizmės pagrindas yra lygiakraštis trikampis. Šios prizmės tūris lygus 54. Pažymėkime prizmės pagrindo kraštinės ilgį x, o prizmės aukštinės ilgį h. Išreiškę šios prizmės aukštinės ilgį h per x, gauname, kad prizmės viso paviršiaus plotą galima apskaičiuoti pagal formulę $S(x) = \frac{x^2\sqrt{3}}{2} + \frac{216\sqrt{3}}{x}$; čia $x > 0$. Išspręskite lygtį $S'(x) = 0$. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_23.png?raw=true)
+A $6\sqrt{3}$
+*B 6
+C 216
+D 36
+
+
+
+
+
+24. Trys draugai – Giedrė, Tomas ir Mindaugas – laiko vairavimo egzaminą. Tegul įvykis G yra „Giedrė išlaikė vairavimo egzaminą“, įvykis T – „Tomas išlaikė vairavimo egzaminą“, o įvykisM – „Mindaugas išlaikė vairavimo egzaminą“ (G, T ir M yra nepriklausomieji įvykiai). Žinoma, kad įvykių tikimybės yra $P(G) = \frac{3}{4}$, $P(T) = \frac{4}{5}$ ir $P(M) = \frac{2}{3}$. Vairavimo egzaminą gali išlaikyti arba vienas iš draugų, arba du, arba trys, arba nė vienas iš jų. Atsitiktinis dydis X – „Vairavimo egzaminą išlaikiusių draugų skaičius“. Atsitiktinio dydžio X skirstinys pateiktas lentele. Apskaičiuokite atsitiktinio dydžio X matematinę viltį. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_24.png?raw=true)
+A $2\frac{7}{30}$
+B $\frac{3}{20}$
+C 1
+*D $2\frac{13}{60}$
+
+
+
+
+
+25. Paveiksle pavaizduotas bukasis trikampis ABC. Yra žinoma, kad $\angle BAC - \angle ABC = 90^\circ$, o $AC : BC = 3:4$. Apskaičiuokite $tg \angle BAC$. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_25.png?raw=true)
+*A $-\frac{4}{3}$
+B $\frac{3}{4}$
+C $\frac{4}{3}$
+D $-\frac{3}{4}$
+
+
+
+
+
+26. Trys pirmieji didėjančiosios geometrinės progresijos nariai yra natūralieji skaičiai. Trečiasis narys lygus 90 % pirmųjų dviejų narių sumos. Trečiojo ir pirmojo narių skirtumas yra ne didesnis už 19. Nustatykite didžiausią galimą trečiojo nario reikšmę.
+A 35
+*B 27
+C 33
+D 15
+
+
+
