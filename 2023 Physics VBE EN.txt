@@ -1,0 +1,750 @@
+01. What type of motion does a body experience when its coordinate changes directly proportional to the square of time?
+A. It results in a straight line.
+*B. It involves continuously variable direct travel.
+C. The motion follows an unevenly variable curve.
+D. It entails oscillation about the equilibrium position.
+
+
+
+
+
+02. The body's center of mass is simultaneously acted upon by forces of 12 N and 24 N. They can be oriented to each other at various angles. In which case is the full range of representative force that can act on the body correctly stated?
+A 0 N – 24 N
+B 10 N – 36 N
+C 12 N – 24 N
+*D 12 N – 36 N
+
+$F_{max} = F_1 + F_2 = 36$ $F_{min} = F_2 - F_1 = 12$
+
+
+
+03. Which of the given quantities is a scalar?
+A Linear velocity
+B Centripetal acceleration
+C Reaction force
+*D Mechanical work
+
+
+
+
+
+04. How many times must the velocity of a body thrown horizontally be increased so that the body travels the same distance in the horizontal direction after the height of the throw is halved?
+*A $\sqrt{2}$ times
+B 2 times
+C $\sqrt{10}$ times
+D 4 times
+
+
+
+
+
+05. The picture shows five identical balls, which are tied with a light inelastic thread, thrown over a light fly. What is the acceleration of such a system of bound balls? Acceleration of free fall 10 $m/s^2$. Ignore friction. [](https://drive.google.com/uc?id=1dXjOCigaxVU-aSLozZLllU0UYtvo-S3O)
+A 1 $m/s^2$
+*B 2 $m/s^2$
+C 3 $m/s^2$
+D 5 $m/s^2$
+
+
+
+
+
+06. A body moves uniformly in a circle with radius R. In which case is the relationship between the body's angular velocity $\omega$ and linear velocity $v$ correctly stated?
+A $\omega = v \cdot R$
+B $\omega = v^2 / R$
+*C $v = \omega \cdot R$
+D $v = \omega^2 \cdot R$
+
+
+
+
+
+07. Planet X has twice the mass and radius of Planet Y. Compare the free fall acceleration of $g_x$ on the surface of planet X with the free fall acceleration of $g_x$ on the surface of planet Y.
+A $g_x = 2g_y$
+B $g_x = 4g_y$
+*C $g_x = g_y/2$
+D $g_x = g_y/4$
+
+
+
+
+
+08. A bullet with a mass m traveled at a speed v. After it hit the wall, half of the bullet's kinetic energy was converted into internal energy. In which case is the temperature change of the bullet expressed correctly? (c is the specific heat of the material the bullet is made of.)
+A $\frac{mv^2}{4c}$
+B $\frac{2mc}{v^2}$
+C $\frac{v^2}{2c}$
+*D $\frac{v^2}{4c}$
+
+
+
+
+
+09. 173 mg of water is added to a closed 10-liter container containing dry air. What will be the relative humidity of the air in the container at 20 $\deg$C when all the water turns into steam? The density of saturated water vapor at 20 $\deg$C is 17.3 $g/m^3$.
+*A 100%
+B 70%
+C 20%
+D 10%
+
+
+
+
+
+10. The needle floats on the surface of the water. What counterbalances its weight?
+A Lifting force of Archimedes
+B Liquid column pressure
+*C Sum of liquid surface tension and Archimedean forces
+D Difference between liquid surface tension and Archimedean forces
+
+
+
+
+
+11. What should be changed in a flat capacitor to increase its electrical capacity?
+A Increase the distance between the plates
+*B Reduce the distance between the plates
+C Reduce the area of the capacitor plates
+D Remove the dielectric from the gap between the plates
+
+
+
+
+
+12. The electrical circuit shown in the figure consists of resistors R1 and R2, two ideal diodes and a galvanic cell (its internal resistance is neglected). When terminal A is connected to the positive pole of the galvanic cell and terminal B is connected to the negative pole, the power consumed by the circuit is 7.2 W. When the same galvanic cell is connected, reversing the signs of the terminals, the electrical power consumed by the circuit becomes 14.4 W. Equal to resistance ratio of resistors $\frac{R_1}{R_2}$? [](https://drive.google.com/uc?id=1Xa_cwklPF8CmLpO9FnKd_dN7AniK7iqb)
+A 1/2
+B 1/4
+*C 2
+D 4
+
+
+
+
+
+13. What are charge carriers in gases?
+A Only ions
+B Free electrons only
+*C Ions and electrons
+D Electrons and holes
+
+
+
+
+
+14. In the part of the electric circuit shown in the figure, an electric current of I = 3 A flows through the upper branch, R1 = 10 Ω and R2 = 30 Ω. What is the total resistance of this part of the circuit and the voltage between points A and B? [](https://drive.google.com/uc?id=1Oc9Z3QR04swwrndKV-tq-ZjkK4cNhcg3)
+A 40 Ω, 120 V
+B 40 Ω, 30 V
+C 7.5Ω, 120V
+*D 7.5 Ω, 30 V
+
+ 
+
+
+
+15. How many times and how will the electric current change in the part of the electric circuit shown in the figure, after turning on the switch J? The voltage between the terminals remains the same and all resistors have the same resistance.
+A will increase by 1.5 times
+B will decrease by 1.5 times
+*C will increase by 1.1 times
+D will decrease by 1.1 times
+
+
+
+
+
+16. A coil, a bar magnet, and a galvanometer G are used to demonstrate electromagnetic induction. In which case can you tell from the reading of the galvanometer that the magnet is not moving? [](https://drive.google.com/uc?id=11P1I7vIH2EmkzzOwXWAfJJ-zsp2kRunw)
+A a and b
+B Only b
+C a and c
+*D Only c
+
+
+
+
+
+17. In which medium is the speed of propagation of electromagnetic waves approximately equal to 300,000 km/s?
+A Lede
+B In the glass
+*C In a vacuum
+D in Aquarius
+
+
+
+
+
+18. A ray of light passes from the air to a glass plate, falling on it perpendicularly. What will be the further course of this ray? [](https://drive.google.com/uc?id=1dq2xUdxToV6S3-MjgKUBPAhP0D2IHxgo)
+A
+*B
+C
+D
+
+
+
+
+
+19. What can fiber optic cables be used for?
+A For information purposes only
+B Only to direct the light flow to the device
+C Only for illuminating and inspecting hard-to-reach areas
+*D All options are correct
+
+
+
+
+
+20. Transformer operation is based on which phenomenon?
+A Self-induction
+B Electrostatic induction
+*C Electromagnetic induction
+D Interference of electromagnetic waves
+
+
+
+
+
+21. Two series-connected capacitors of equal electrical capacity are charged and connected to a coil. How would the period of electromagnetic oscillations in the circuit change if the capacitors were connected in parallel?
+*A Would double
+B It would decrease by two times
+C It would quadruple
+D It would decrease four times
+
+
+
+
+
+22. After connecting the AC circuit shown in the figure, resonance is observed. What is the reactance ratio of the coil to the capacitor $\frac{X_L}{X_C}$? [](https://drive.google.com/uc?id=1DyYzhGj9_10LwowoZCxtj8nVOmF03X_w)
+*A 1
+B 2
+C 3
+D 4
+
+
+
+
+
+23. There are 250 slits in one millimeter of a diffraction grating. What spectrum of the highest order will be recorded when electromagnetic radiation with a wavelength of $5 \cdot 10^{−5}$ cm is perpendicularly incident on this lattice?
+A 2
+B4
+C6
+*D 8
+
+d sin(φ) = k λ       k = (d sin(φ) ) / λ          d = 1 / (250 * 10) = 1/2500 (cm)           k = ((1/2500) sin( pi/2 ) ) / (5 * 0.00001) = 8
+
+
+
+24. During the experiment, while studying the regularities of the photoeffect, the zinc plate was replaced by a silver plate. Which of the following physical quantities remained the same after the plate was replaced?
+A Kinetic energy of released electrons
+B Photoeffect red limit
+C Electron stopping voltage
+*D Saturation photocurrent strength
+
+
+
+
+
+25. $^{234}_{92}\mathrm{U}$ , $^{235}_{92}\mathrm{U}$ and $^{238}_{92}\mathrm{U}$ were found in uranium ore }$ of isotopes. Which line correctly states the composition of the nucleus of one of these isotopes?
+*A Number of protons 92 Number of neutrons 146
+B Number of protons 146 Number of neutrons 92
+C Number of protons 235 Number of neutrons 147
+D Number of protons 92 Number of neutrons 238
+
+
+
+
+
+26. What is the function of materials such as graphite (carbon) or heavy water $\mathrm{D}_2\mathrm{O}$ in nuclear reactors?
+A Emits neutrons
+B Accelerates neutrons
+*C Slows down neutrons
+D Absorbs neutrons
+
+
+
+
+
+27. Light travels a distance of approximately $4.73 10^{16}$ m in a vacuum in 5 years. What is this distance in astronomical units? One light year is equal to 63241 astronomical units.
+A 63241 av
+B 632410 av
+*C 316205 av
+D 12648 av
+
+
+
+
+
+28. What is the phase of the Moon called when the Moon is directly between the Earth and the Sun?
+*A New Moon
+B First Quarter
+C Full moon
+D Last Quarte
+
+
+
+
+
+29. What stage in the life of a distant star do astronomers observe when looking at it through a telescope?
+A Present
+*B The past
+C The future
+D Answers A and B are correct
+
+
+
+
+
+30. The radius of Pluto's orbit is 40 av, and the radius of Neptune's orbit is 30 av. Which celestial body has the longest period of orbit around the Sun and approximately how many times?
+A of Neptune, 1.6 times
+*B of Pluto, 1.5 times
+C of Neptune, 1.4 times
+D Pluto, 1.3 times
+
+$ \frac{T_{\mathrm{Pluto}}^2}{T_{\mathrm{Neptune}}^2} = \frac{a_{\mathrm{Pluto}}^3}{a_{\mathrm{Neptune}}^3} = \frac{40^3}{30^3} = \frac{64000}{27000} \approx 2.37$     $\sqrt{2.37} = 1.53948...$
+
+
+
+II-1 Engine Power. What is the SI unit designation?
+A. Joule (J)
+B. Kelvin (K)
+C. Newton (N)
+*D. Watt (W)
+
+
+
+
+
+II-2 Mechanical stress. What is the SI unit designation?
+*A Pascal (Pa)
+B Newton (N)
+C Joule (J)
+D Kelvin (K)
+
+
+
+
+
+II-3 Magnetic induction flux. What is the SI unit designation?
+A Ampere (A)
+*B Weber (Wb)
+C Tesla (T)
+D Henry (H)
+
+
+
+
+
+II-4 Oscillation period. What is the SI unit designation?
+A Meter (m)
+B Hertz (Hz)
+*C Second (s)
+D Newton (N)
+
+
+
+
+
+II-5 Momentum of a quantum of light. What is the SI unit designation?
+A Coulomb (C)
+*B Newton second (Ns)
+C Second (s)
+D Candle (cd)
+
+
+
+
+
+II-6 During the tests, a car moving at a speed of 25 m/s hits a wall and comes to an abrupt stop, while a 65 kg driver dummy moves from inertia for another 0.2 s before being stopped by the seat belts. Calculate the average value of the force acting on the dummy in newtons.
+A  7127 (N)
+*B 8125 (N)
+C 5134 (N)
+D 18478 (N)
+
+$F = \frac{Δp}{t} = \frac{m \cdot v}{t} = \frac{25 \cdot 65}{0.2} = 25*65/0.2 = 8125$
+
+
+
+II-7 The pressure of an ideal monatomic gas is 15 kPa, and the concentration of atoms is $3 \cdot 10^{25} m^{−3}$. What is the average kinetic energy of the sliding motion of one atom of this gas in joules? 
+*A $7.5 \cdot 10^{-22}$
+B $9.4 \cdot 10^{-22}$
+C $6.5 \cdot 10^{-22}$
+D $7.2 \cdot 10^{-22}$
+
+$p=\frac{1}{3} m_0 n v^2 = \frac{2}{3} n  \frac{m_0 v^2}{2} = \frac{2}{3} n  E_k$   =>  $E_k = \frac{3}{2} \frac{p}{n} = \frac{3}{2} \frac{15000}{3 \cdot 10^{25}} = 7.5 \cdot 10^{-22}$
+
+
+
+II-8 A light bulb with a power of 60 W has a standard voltage of 220 V. What will the electric current in the light bulb equal in watts if the voltage supplied to the light bulb is halved? Assume that the resistance of the bulb does not change as the voltage is reduced.
+A 52 (W)
+B 17  (W)
+*C 15 (W)
+D 5  (W)
+
+$P=UI=\frac{U^2}{R}$ => $R=UI=\frac{U^2}{P}=\frac{220^2}{60}=806.66(6)$ => $P_2=\frac{110^2}{R}=\frac{110^2 60}{220^2} = 15 (W)$
+
+
+
+II-9 The reactance of the capacitor in a 600 Hz alternating current circuit is 2.2 kΩ. What would be the reactance of this capacitor in ohms in a 2.4 kHz AC circuit?
+A 510 (Ω)
+B 560 (Ω)
+C 540 (Ω)
+*D 550 (Ω)
+
+$X_C=\frac{1}{ωC}$ => $C=\frac{1}{ωX_C}=\frac{1}{600 * 2200}$ => $X2_C=\frac{1}{ω_2C}=\frac{1}{2400C}=\frac{600 * 2200}{2400} = 550 $
+
+
+
+II-10  What fraction of the nuclei of the radioactive francium $^{221}_{87}\mathrm{Fr}$ isotope will decay in a time equal to three half-lives?
+A 0.125
+B 1.025
+C 0.025
+*D 0.875
+
+After the first half was left $\frac{1}{2} $. After the second half was left $\frac{1}{2} * \frac{1}{2}$. After the third half left $\frac{1}{2} * \frac{1}{2} * \frac{1}{2} = 0.125$ => It means that it has decreased $1-0.125=0.875$
+
+
+
+III-1 The last wagon of mass $10^4$ kg uncoupled from a train traveling at a speed of 10 m/s on a straight track decelerates with a constant acceleration of $0.25 m/s^2$, while the train continues to travel at the same speed. 1. What is the magnitude of the force that brakes the uncoupled wagon?
+A 2700 (N)
+*B 2500 (N)
+C 25000 (N) 
+D 26000 (N) 
+
+$F=ma=10^4 * 0.25 = 2500$
+
+
+
+III-1 The last wagon of mass $10^4$ kg uncoupled from a train traveling at a speed of 10 m/s on a straight track decelerates with a constant acceleration of $0.25 m/s^2$, while the train continues to travel at the same speed. 2. How far will the uncoupled wagon travel before it stops?
+A 2000 (m)
+*B 200 (m)
+C 20 (m) 
+D 250 (m) 
+
+$a=\frac{v-v_0}{t}$ => $t=\frac{v-v_0}{a}=\frac{10-0}{0.25}=40 (s)$   $L=v_0 \cdot t - \frac{a t^2}{2} = 10 * 40 - \frac{0.25 * 40^2}{2}=200$
+
+
+
+III-1 The last wagon of mass $10^4$ kg uncoupled from a train traveling at a speed of 10 m/s on a straight track decelerates with a constant acceleration of $0.25 m/s^2$, while the train continues to travel at the same speed. 3. Give the expression of the time dependence of the speed of the uncoupled wagon $v = v(t)$.
+A $v(t)=100-0.025t$
+B $v(t)=10+0.25t$
+*C $v(t)=10-0.25t$
+D $v(t)=100-0.5t$
+
+$a=\frac{v-v_0}{t}$ => $v=v_0+at=10-0.25t$ nes a=-0.25
+
+
+
+III-1 The last wagon of mass $10^4$ kg uncoupled from a train traveling at a speed of 10 m/s on a straight track decelerates with a constant acceleration of $0.25 m/s^2$, while the train continues to travel at the same speed. 4. Write an expression to calculate the work done by the drag forces when the uncoupled wagon comes to a complete stop.
+*A A=Fs
+B A=F/s
+C A=s/F 
+D $A=F/s^2$
+
+
+
+
+
+III-1 The last wagon of mass $10^4$ kg uncoupled from a train traveling at a speed of 10 m/s on a straight track decelerates with a constant acceleration of $0.25 m/s^2$, while the train continues to travel at the same speed. 5. What can the observer at the station consider the reference system connected to (with a moving train or with a detached wagon) as an inertial reference system?
+*A With train
+B With wagon
+C With a train and a wagon
+D Neither with one
+
+
+
+
+
+III-2 A body of mass 0.5 kg slides down the smooth surface of an inclined plane. The acceleration of free fall is equal to 10 $m/s^2$. Ignore the friction when answering the questions. Plane angle α = 60°. 1. What forces and in what direction act on the body.
+A The force of gravity is downward.
+*B The force of gravity is directed downward and the reaction force of the inclined plane N is perpendicular to the plane but in the direction away from the plane.
+C The force of gravity is directed downward and the force of friction is directed horizontally.
+D The frictional force is directed horizontally and the inclined plane reaction force N is perpendicular to the plane but in the direction of the plane.
+
+
+
+
+
+III-2 A body of mass 0.5 kg slides down the smooth surface of an inclined plane. The acceleration of free fall is equal to 10 $m/s^2$. Ignore the friction when answering the questions. Plane angle α = 60°. 2. What is approximately equal to the magnitude of the acceleration of a body sliding on an inclined plane?
+A a≈8.1 $m/s^2$
+*B a≈8.7 $m/s^2$
+C a≈6.4 $m/s^2$
+D a≈5.6 $m/s^2$
+
+$F=ma$ => $a=F/m=mgsin(α)/m=gsin(α)=10*sind(60)≈8.66$ 
+
+
+
+III-2 A body of mass 0.5 kg slides down the smooth surface of an inclined plane. The acceleration of free fall is equal to 10 $m/s^2$. Ignore the friction when answering the questions. Plane angle α = 60°. 3. At what acceleration would a body with 10 times the mass slide on the surface of the same plane?
+A a≈81 $m/s^2$
+*B a≈8.7 $m/s^2$
+C a≈87 $m/s^2$
+D a≈5.6 $m/s^2$
+
+$a=gsin(α)=10*sind(60)≈8.66$ 
+
+
+
+III-2 A body of mass 0.5 kg slides down the smooth surface of an inclined plane. The acceleration of free fall is equal to 10 $m/s^2$. Ignore the friction when answering the questions. Plane angle α = 60°. 4. Which sentence correctly describes the definition of weight.
+A Weight is the force with which the scale acts on the body
+*B Weight is the force with which gravity acts on a body
+C Weight is the force with which the plane acts on the body
+D None of the answers are correct
+
+
+
+
+
+III-2 A body of mass 0.5 kg slides down the smooth surface of an inclined plane. The acceleration of free fall is equal to 10 $m/s^2$. Ignore the friction when answering the questions. Plane angle α = 60°. 5. Calculate the magnitude of the force exerted by a 0.5 kg body on an inclined plane.
+A 2.7 (N)
+B 2.2 (N)
+C 5.1 (N)
+*D 2.5 (N)
+
+$N=mgsin(90-α)=0.5*10*sind(30)=2.5$ N
+
+
+
+III-3 The diagram shows a closed cycle of one mole of ideal monatomic gas ABCDA. 1. Write down the number of atoms in one mole of gas. [](https://drive.google.com/uc?id=1Tb-J1QX6bqCmIehIRzmN9ynnv24sHTyW)
+A $7.022 \cdot 10^{22} mol^{-1}$
+*B $6.022 \cdot 10^{23} mol^{-1}$
+C $1.000 \cdot 10^{3} mol^{-1}$
+D $1.000 \cdot 10^{0} mol^{-1}$
+
+Avogadro's number $N_A$
+
+
+
+III-3 The diagram shows a closed cycle of one mole of ideal monatomic gas ABCDA. 2. The efficiency of the internal combustion engine is equal to 25%. What is the amount of useful work done by the expanding gas when 60,000 J of heat is released when the fuel burns? [](https://drive.google.com/uc?id=1Tb-J1QX6bqCmIehIRzmN9ynnv24sHTyW)
+A 60000 (J)
+B 15000 (W)
+*C 15000 (J)
+D 30000 (J)
+
+$A_{Useful}=A_{All} \cdot η = 60000*0.25=15000$ 
+
+
+
+III-3 The diagram shows a closed cycle of one mole of ideal monatomic gas ABCDA. 3. Based on the first law of thermodynamics and the information in the diagram, determine which one of the isoprocesses (AB, BC, CD, or DA) involves both heat being supplied to the gas and an increase in the internal energy of the gas and work being done by the gas, i.e. i.e. Q > 0, ∆U > 0 and A >0. Justify your answer. [](https://drive.google.com/uc?id=1Tb-J1QX6bqCmIehIRzmN9ynnv24sHTyW)
+*A AB 
+B BC
+C CD
+D DA
+
+∆U > 0 means the temperature must increase; A > 0 means the volume must increase; The first law of thermodynamics says $Q=∆U+A$ so Q > 0 will definitely be there
+
+
+
+III-4 In a particle accelerator, a stream of protons traveling at a constant speed in a vacuum is formed. 1. Adjacent protons in the stream are $10^{−5}$ m away from each other. Calculate the electrostatic force of repulsion between adjacent protons. Proportionality factor $k = 9·10^9 N·m^2/C^2$.
+A $4.31·10^{18} N$
+B $2.51·10^{18} N$
+C $2.91·10^{-18} N$
+*D $2.31·10^{-18} N$
+
+$F=\frac{kq^2}{r^2}=\frac{9*10^9*(1.602*10^{-19})^2}{(10^{−5})^2}$
+
+
+
+III-4 In a particle accelerator, a stream of protons traveling at a constant speed in a vacuum is formed. 2. Where are the lines of force of the electric field created by one proton directed.
+A To the center
+*B From the center
+C Horizontally
+D Vertically
+
+
+
+
+
+III-4 Elementariųjų dalelių greitintuve suformuojamas pastoviu greičiu vakuume skriejančių protonų srautas. 3. Viename iš greitinimo etapų protonas praskrieja tarp taškų, tarp kurių yra 200 V įtampa. Apskaičiuokite elektrinio lauko darbą, kuris buvo atliktas, greitinant protoną. Atsakymą pateikite SI matavimo vienetais ir elektronvoltais.
+A $7.204·10^{-17} J = 300 eV$
+*B $3.204·10^{-17} J = 200 eV$
+C $3.904·10^{-18} J = 200 eV$
+D $6.204·10^{-16} J = 451 eV$
+
+$A=q*d*E=q*d*U/d=U*q=1.602*10^{-19}*200=3.204·10^{-17} J$ Arba A = 1 * 200 eV 
+
+
+
+III-4 In a particle accelerator, a stream of protons traveling at a constant speed in a vacuum is formed. 4. Name one reason why the forces of many countries and their scientists are united to carry out fundamental research on elementary particles.
+A Expensive to create
+B More heads more brains
+C International cooperation promotes motivation
+*D All listed reasons
+
+
+
+
+
+III-4 In a particle accelerator, a stream of protons traveling at a constant speed in a vacuum is formed. 5. There are two capacitor plates 2 cm apart in a vacuum. At what magnitude of voltage, an electric field of 1 kV/m is created in the space between the plates?
+A 30 V
+*B 20 V
+C 40 V
+D 80 V
+
+$U=E*d=1000*0.02=20$
+
+
+
+III-4 In a particle accelerator, a stream of protons traveling at a constant speed in a vacuum is formed. 6. Protons traveling at a speed of $10^6$ m/s enter a space where the lines of a uniform electric field and a uniform magnetic field are perpendicular to each other (see Fig. 2). Calculate the magnitude of the magnetic field induction $\vec{B}$ so that the protons move along a straight path in the space shown in the figure. The strength of a uniform electric field is equal to 1 kV/m. [](https://drive.google.com/uc?id=15EiW_eKenjZyXSwk5q_1REb0ndAZpsIv) 
+*A $10^{-3} T$
+B $10^{-6} T$
+C $10^{-2} T$
+D $10^{-4} T$
+
+The forces of the magnetic field $F=qvB$ and the electric field $F=Eq$ must be equal and in opposite directions. $qvB=Eq$ => $B=E/v=1000/10^6=10^{-3}$
+
+
+
+III-4 In a particle accelerator, a stream of protons traveling at a constant speed in a vacuum is formed. 7. State how the trajectory of the protons would change if the electric field disappeared in the space shown in the figure. [](https://drive.google.com/uc?id=15EiW_eKenjZyXSwk5q_1REb0ndAZpsIv) 
+A Would not change and move horizontally
+B Would turn up and move in a circle
+*C Would rotate down and move in a circle
+D Would start to move in the opposite direction
+
+
+
+
+
+III-5 The figure shows a mathematical pendulum. A pendulum attached to a thin thread of length L is set to oscillate by pulling it to the left through a small angle from its equilibrium position. A mathematical pendulum is considered to oscillate harmoniously. 1. State in which positions (I, II, III, or IV) the oscillating weight first acquires its maximum absolute values of velocity and acceleration after it has been released. [](https://drive.google.com/uc?id=1AvxSoQPaR2vlmZcNmt_OmJ2-hLzosB1E) 
+A Speed I ; Acceleration II
+B Speed II; Acceleration II
+*C Speed II; Acceleration IV
+D Speed I ; Acceleration IV
+ 
+
+
+
+
+III-5 2. Based on the graph of tilt oscillations given, calculate what the phase of the oscillation is equal to after 10 s from the start of the oscillation. [](https://drive.google.com/uc?id=1xpgJB5g037zxDTVU0jmnOkCRxofFasni)  
+A π/3 rad
+B π/2 rad
+*C 0  rad
+D π rad
+
+φ=ω*t=2π/T * 10 = 2π/2 * 10 = 10π OR 0
+
+
+
+III-5 3. The measured length of the pendulum is 80.0 cm. What is the relative error of this measurement, if the absolute error of the tape measure ±2 mm?
+A 0.5 %
+B 0.4 %
+C 1.25 %
+*D 0.25 %
+
+ε = ΔL/L = 0.2/80 = 0.0025 => 0.25 %
+
+
+
+III-5 4. Calculate approximately how many times the frequency of oscillation would increase if the length of the pendulum were reduced from 80.0 cm iki 65.0 cm.
+*A 1.15
+B  1.71
+C  2.78
+D  0.41
+
+$T=2\pi\sqrt{\frac{l}{g}}$ $f=1/T$ ; $f2/f1=\sqrt{\frac{l1}{l2}}=\sqrt{\frac{80}{60}}=1.15$
+
+
+
+III-6 The students explored the images obtained by the converging lens using a candle and a screen. 1. During the first test, the students observed an inverted image of a burning candle of the same dimensions on the screen. Where is the image and where is the candle. [](https://drive.google.com/uc?id=1VKeaItaxo5Yr3u5LMvulunziAimUCRxE) 
+*A Candle at 2F distance , image at 2F distance.
+B Candle at 1F distance , Image at 1F distance.
+C Candle at 3F distance , Image at 1F distance.
+D Candle at 4F distance , image at 4F distance.
+
+
+
+
+
+III-6 The students explored the images obtained by the converging lens using a candle and a screen. 2. During the second test, a real and twice magnified image of the candle was obtained with the converging lens. The distance between the screen and the lens is 15 cm. Calculate the distance from the lens to the candle.
+A 17.1 cm
+*B 7.5 cm
+C 4.5 cm
+D 3.1 cm
+
+Γ=f/d => d=f/Γ => d=15/2=7.5
+
+
+
+III-6 3. Name which visual impairment - nearsightedness or farsightedness - can be corrected with contact lenses.
+A Nothing
+B Myopia and hyperopia
+C Myopia
+*D Farsightedness
+
+
+
+
+
+III-6 4.  In front of the retina or behind the retina, which part of the eye does the image form in contact lens-corrected visual impairment?
+A Before the retina
+*B Behind the retina
+C In the retina
+D Does not change
+
+
+
+
+
+III-6 5. Name the wave optics phenomenon that causes a converging lens to collect violet light on the main optical axis closer to the lens than red light.
+A Diffraction
+B Interference
+*C Dispersion
+D Reflection
+
+Dispersion of light is called the dependence of the quantity (refractive index) characterizing the light on the color (frequency) of the light.
+
+
+
+III-7 While studying nuclear transformations, the scientists found that 18.35 MeV of energy is released during the presented fusion reaction of helium and hydrogen isotopes. $^{3}_{2}\mathrm{He} + ^{2}_{1}\mathrm{D} \rightarrow ^{4}_{2}\mathrm{He} + ^{1}_{ 1}\mathrm{H}$ 1. Name the elementary particles in which the nuclei of the isotopes of the element differ in number.
+A Protons
+*B Neutrons
+C Protons and electrons
+D Electrons
+
+
+
+
+
+III-7 While studying nuclear transformations, the scientists found that 18.35 MeV of energy is released during the presented fusion reaction of helium and hydrogen isotopes. 2. Estimate the mass defect for this fusion reaction in atomic mass units.
+A 0.20 a.m.v.
+B 0.45 a.m.v.
+*C 0.02 a.m.v.
+D 0.76 a.m.v.
+
+m=E/931.5=18.35/931.5=0.0196994...  Because. Mass-energy coupling factor 931.5 MeV/a.m.v.
+
+
+
+III-7 3. Give one argument why there would be less environmental problems if we got our energy from fusion reactors.
+*A No carbon dioxide is released
+B Carbon dioxide is released
+C Water is released
+D Oxygen is evolved
+
+
+
+
+
+III-7  $^{3}_{2}\mathrm{He} + ^{2}_{1}\mathrm{D} \rightarrow ^{4}_{2}\mathrm{He} + ^{1}_{1}\mathrm{H}$ 4. On which side of the given fusion reaction equation, the left or the right side, is the sum of the masses of the nuclei larger? Justify your answer.
+*A On the left
+B On the right
+C Left and right
+D Sometimes left, sometimes right
+
+
+
+
+
+III-7  While studying nuclear transformations, the scientists found that 18.35 MeV of energy is released during the presented fusion reaction of helium and hydrogen isotopes. 5. When fuel burns, carbon combines with oxygen, and during one such chemical reaction, approximately 5.5 eV of energy is released. Calculate approximately how many times this energy is less than the energy released in one of the fusion reactions of the mentioned isotopes
+A $4 \cdot 10^{-7}$
+B $7 \cdot 10^{-7}$
+C $6 \cdot 10^{-7}$
+*D $3 \cdot 10^{-7}$
+
+$5.5/(18.35 \cdot 1000000)=2.997 \cdot 10^{-7} $
+
+
+
+III-7 What field do scientists use in fusion reactors to solve the problem of how to maintain high-temperature plasma in a vacuum?
+A Electric
+*B Magnetic
+C Gravitational
+D He doesn't use anything, he keeps himself
+
+
+
+
+
