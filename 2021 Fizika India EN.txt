@@ -1,0 +1,199 @@
+Q1. A refrigerator consumes an average 35 W power to operate between temperature –10°C to 25°C. If there is no loss of energy then how much average heat per second does it transfer?
+(A) 350 J/s 
+(B) 298 J/s
+(C) 35 J/s 
+*(D) 263 J/s 
+
+$k=Q_C/W=T_C/(T_H-T_C)$ => $Q_C/35=263/(298-263)=263$
+
+
+
+Q2. The angle between vector $(\vec{A})$ and $(\vec{A}-\vec{B})$ is: [](https://drive.google.com/uc?id=18Mm7iUbtDT2MzdR2EhILGJRqufrBjCVw) 
+*(A) 
+(B) 
+(C) 
+(D) 
+
+
+
+
+
+Q3. Four NOR gates are connected as shown in figure. The truth table for the given figure is: [](https://drive.google.com/uc?id=1S4GJw8TzsSKFmcKh7X3NIcU2v344YwT3) 
+*(A) 
+(B) 
+(C) 
+(D)
+
+
+
+{'youtube':'https://www.youtube.com/watch?v=gODZliTJmM8'}
+
+Q4. An electric bulb of 500 watt at 100 volt is used in a circuit having a 200 V supply. Calculate the resistance R to be connected in series with the bulb so that the power delivered by the bulb is 500 W.
+*(A) 20 Ω
+(B) 5 Ω
+(C) 10 Ω 
+(D) 30 Ω 
+
+
+
+{'youtube':'https://www.youtube.com/watch?v=KQd9aXfmghA'}
+
+Q5. If you are provided a set of resistances 2 Ω, 4 Ω, 6 Ω and 8 Ω. Connect these resistances so as to obtain an equivalent resistance of 46/3 Ω.
+(A) 4 Ω and 6 Ω are in parallel with 2 Ω and 8 Ω in series.
+(B) 6 Ω and 8 Ω are in parallel with 2 Ω and 4 Ω in series.
+*(C) 2 Ω and 4 Ω are in parallel with 6 Ω and 8 Ω in series.
+(D) 2 Ω and 6 Ω are in parallel with 4 Ω and 8 Ω in series. 
+
+
+
+
+
+Q6. The de-Broglie wavelength of a particle having kinetic energy E is λ. How much extra energy must be given to this particle so that the de-Broglie wavelength reduces to 75% of the initial value?
+(A) 1/9 E
+(B) 1 E
+(C) 16/9 E
+*(D) 7/9 E
+
+$λ=h/p=h/\sqrt{2mE}$ => $E_2/E=(λ/λ_2)^2=(4/3)^2$ => $E_2=(λ/λ_2)^2=16/9*E$ => $E_2-E=7/9*E$
+
+
+
+Q7. Match List-I with List-II: [](https://drive.google.com/uc?id=1vQjmp5rV1WLno5eHo9fG3ecNx-VnALEH) 
+(A) 
+(B) 
+(C) 
+*(D) 
+
+
+
+
+
+Q8. A cylindrical container of volume $4.0×10^{–3} m^3$ contains one mole of hydrogen and two moles of carbon dioxide. Assume the temperature of the mixture is 400 K. The pressure of the mixture of gases is: [Take gas constant as $8.3 J mol^{–1} K^{–1}$ ] 
+(A) 24.9 Pa 
+(B) 24.9 × $10^3$ Pa
+*(C) 24.9 × $10^5$ Pa 
+(D) 249 × $10^1$ Pa 
+
+$p=nRT/V=(1+2)*8.3*400/(4*10^{-3})=24.9 * 10^5$
+
+
+
+Q9. In the given circuit the AC source has ω = 100 rad $s^{–1}$. Considering the inductor and capacitor to be ideal, what will be the current I flowing through the circuit? [](https://drive.google.com/uc?id=1aypA0P5TShf79M4I5499j2msd6iI1pSq) 
+(A) 5.9 A
+*(B) 4.24 A
+(C) 6 A
+(D) 0.94 A
+
+
+
+{'youtube':'https://www.youtube.com/watch?v=KQd9aXfmghA' , 'web':'https://circuitglobe.com/phasor-method-for-solving-parallel-circuits.html'}
+
+Q10. A particle of mass m is suspended form a ceiling through a string of length L. The particle moves in a horizontal circle of radius r such that $r=L/\sqrt{2}$ . The speed of particle will be:
+*(A) $\sqrt{rg}$
+(B) $\sqrt{rg/2}$
+(C) $2\sqrt{rg}$ 
+(D) $\sqrt{2rg}$ 
+
+
+
+
+
+Q11. At time t = 0, a material is composed of two radioactive atoms A and B, where $N_A(0) = 2N_B(0)$ . The decay constant of both kind of radioactive atoms is λ. However, A disintegrates to B and B disintegrates to C. Which of the following figures represents the evolution of $N_B(t)/N_B(0)$ with respect to time t ? [](https://drive.google.com/uc?id=1sQXgtf5NgM0BYL5ABWPf7mzWZ9RikaLu) 
+*(A) 
+(B) 
+(C) 
+(D) 
+
+$N=N(0)e^{-λt}$  $dN_B/dt=d(1-N_A)/dt+dN_B/dt=λN_A(t)-λN_B(t)$   $dN_B/dt=0$ => $t=1/(2λ)$
+
+{'web':'https://www.sarthaks.com/1237467/at-time-t-0-a-material-is-composed-of-two-radioactive-atoms-a-and-b-where-na-0-2nb-0'}
+
+Q12. The two thin coaxial rings, each of radius ‘a’ and having charges +Q and –Q respectively are separated by a distance of ‘s’. The potential difference between the centres of the two rings is: 
+*(A) $Q/(2πε_0)(\frac{1}{a}-\frac{1}{\sqrt{s^2+a^2}})$
+(B) $Q/(4πε_0)(\frac{1}{a}-\frac{1}{\sqrt{s^2+a^2}})$ 
+(C) $Q/(2πε_0)(\frac{1}{a}+\frac{1}{\sqrt{s^2+a^2}})$ 
+(D) $Q/(4πε_0)(\frac{1}{a}+\frac{1}{\sqrt{s^2+a^2}})$ 
+
+
+
+{'web':'https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_%28OpenStax%29/Book%3A_University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_%28OpenStax%29/07%3A_Electric_Potential/7.04%3A_Calculations_of_Electric_Potential'}
+
+Q13. A bomb is dropped by a fighter plane flying horizontally. To an observer sitting in the plane, the trajectory of the bomb is a:
+(A) hyperbola
+(B) parabola in the direction of motion of plane
+*(C) straight line vertically down the plane
+(D) parabola in a direction opposite of the motion of plane 
+
+
+
+
+
+Q14. The solid cylinder of length 80 cm and mass M has a radius of 20 cm. Calculate the density of the material used if the moment of inertia of the cylinder about an axis CD parallel to AB as shown in figure is 2.7 kg $m^2$ 
+(A) $7.5×10 kg/m^3$
+*(B) $1.49×10^2 kg/m^3$ 
+(C) $14.9 kg/m^3$ 
+(D) $7.5×10^2 kg/m^3$ 
+
+$I=1/2×M×r^2+M(L/2)^2=2.7$
+
+
+
+Q15. A light beam is described by E=800sin(t-x/c). An electron is allowed to move normal to the propagation of light beam with a speed of $3 × 10^7$  m/s. What is the maximum magnetic force exerted on the electron? 
+(A) $1.28×10^{-21} N$ 
+(B) $1.28×10^{-18} N$
+(C) $12.8×10^{-17} N$
+*(D) $12.8×10^{-18} N$
+
+B=E/c   F=evB
+
+
+
+Q16. If the length of the pendulum in pendulum clock increases by 0.1%, then the error in time per day is
+(A) 8.64 s 
+*(B) 43.2 s
+(C) 86.4 s 
+(D) 4.32 s 
+
+$T=2π\SQRT{l/g}$  (sqrt(1.001)-1)*24*60*60 = 43.2
+
+
+
+Q17. Two blocks of masses 3 kg and 5 kg are connected by a metal wire going over a smooth pulley. The breaking stress of the metal is $24/π 10^2 Nm^{-2}$ . What is the minimum radius of the wire?
+(A) 1250 cm
+(B) 125 cm
+*(C) 12.5 cm
+(D) 1.25 cm 
+
+$T=2m_1m_2g/(m_1+m_2)=75/2$     $T/(πr^2)=24/π 10^2$
+
+
+
+Q18. A transmitting antenna at top of a tower has a height of 50 m and the height of receiving antenna is 80 m. What is the range of communication for Line of Sight (LoS) mode? [use radius of earth =6400 km]
+(A) 144.1 km 
+*(B) 57.28 km
+(C) 45.5 km 
+(D) 80.2 km 
+
+$(R+h_1)^2=d_1^2+R^2$  $(R+h_2)^2=d_2^2+R^2$   $d=d_1+d_2$
+
+
+
+Q19. A parallel-plate capacitor with plate area A has separation d between the plates. Two dielectric slabs of dielectric constant $K_1$ and $K_2$ of same area A/2 and thickness d/2 are inserted in the space between the plates. The capacitance of the capacitor will be given by: [](https://drive.google.com/uc?id=1W2KMHsw6ScXnTWQe5wQOBGNhgvGVxqM9)
+(A) $\frac{ε_0A}{d} ( \frac{1}{2} + \frac{K_1+K_2}{K_1K_2} )$ 
+(B) $\frac{ε_0A}{d} ( \frac{1}{2} + \frac{2(K_1+K_2)}{K_1K_2} )$ 
+*(C) $\frac{ε_0A}{d} ( \frac{1}{2} + \frac{K_1K_2}{K_1+K_2} )$
+(D) $\frac{ε_0A}{d} ( \frac{1}{2} + \frac{K_1K_2}{2(K_1+K_2)} )$ 
+
+C=C_3+\frac{C_1C_2}{C_1+C_2}
+
+
+
+Q20. The temperature of equal masses of three different liquids x, y and z are 10°C, 20°C and 30°C respectively. The temperature of mixture when x is mixed with y is 16°C and that when y is mixed with z is 26°C. The temperature of mixture when x and z are mixed will be: 
+(A) 28.32°C 
+*(B) 23.84°C
+(C) 25.62°C 
+(D) 20.28°C
+
+$mc_x(16-10)=mc_y(20-16)$ $mc_y(26-20)=mc_z(30-26)$ $mc_x(T-10)=mc_z(30-T)$ 
+
+
