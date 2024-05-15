@@ -1,0 +1,359 @@
+1. In the figure, for each case A - D, the trajectory of the car is schematically depicted, which is divided into sections 1, 2, 3. It covers equal time intervals. Which of these cases can correspond to the uniform motion of the car? [](https://drive.google.com/uc?id=1yKmZE723FkB3KfF-O4AtZwriRdzWRVv0) 
+*A 
+B 
+C 
+D 
+
+
+
+
+
+2. In which figure does the specified body undergo bending deformation? [](https://drive.google.com/uc?id=1g2uhHWd3H_ZH3t4OPpeiVfr3DJUXxhzC) 
+A 
+*B 
+C 
+D 
+
+
+
+
+
+3. State the situation in which the weight of the body is greater than the force of gravity acting on the body.
+A The car, moving uniformly, is at the upper point of the convex bridge
+*B Cosmonaut is in a rocket during its launch from the Earth's surface 
+C Stone falls from a certain height
+D Person begins to descend together with the elevator cabin
+
+m(g+a)>mg
+
+
+
+4. Under what state of matter does heat transfer not occur by convection?
+*A solid
+B liquid
+C gaseous
+D plasma
+
+Convection is one of the three ways in which heat can transfer between systems or substances. The other two modes of heat transfer are conduction and radiation.
+
+
+
+5. Identical balls suspended by strings are charged as shown in the figures. In which of the cases is the position of these balls due to their interaction correctly depicted? [](https://drive.google.com/uc?id=1N1sAboPKCvrtq00harC_swRlSoBDFw5H)
+A 
+*B 
+C 
+D 
+
+
+
+
+
+6. Indicate which color of light corresponds to the photons with the highest energy.
+A red
+B yellow
+C green
+*D purple
+
+
+
+
+
+7. A girl rides a bicycle in a straight line along a horizontal road. Determine which of the bicycle points at this moment in time has the greatest speed relative to the road. [](https://drive.google.com/uc?id=1OHeAVxrNbG05kjbK9Maa7WqplwhwHKkR)   
+A 
+*B (Б) 
+C (В) 
+D (Г) 
+
+		
+
+
+
+8. The figure shows a fragment of the result of a stroboscopic recording of a ball's movement that was thrown from point A at an angle to the horizon in a two-dimensional coordinate system. At which of the marked points was the ball's potential energy maximum? [](https://drive.google.com/uc?id=1EOkv0b035pJnrnDcJWhtJ1RgPkfI5c1e) 
+A 
+*B (Б) 
+C (В) 
+D (Г) 
+
+
+
+
+
+9. All the water from the wide vessel was poured into a tall, narrow, empty vessel. What will be the pressure force and pressure of the water on the bottom of the narrow vessel after that compared to the pressure force and pressure of this water on the bottom of the wide vessel? Note that the vessels have a cylindrical shape.
+A the force will not change, the pressure will decrease
+*B the force will not change, the pressure will increase
+C the force will increase, the pressure will increase
+D the force will increase, the pressure will decrease
+
+
+
+
+
+10. Moist air is contained in the cylinder under the piston. Water vapor in the cylinder can become saturated after
+A isothermal expansion of air
+*B isochoric air cooling
+C isobaric air heating
+D isochoric air heating
+
+
+
+
+
+11. Give a graph that is a schematic representation of the cycle by which an ideal heat engine works. [](https://drive.google.com/uc?id=1jD777XB-DIdt7MAhf-hJPN0VMqsX6mlO) 
+A 
+B (Б) 
+*C (В) 
+D (Г) 
+
+
+
+
+
+12. The elastic deformation of a solid body is called such that
+*A completely disappears after the cessation of the action of external forces
+B partially disappears after the cessation of external forces
+C does not depend on the action of applied external forces
+D does not change after the cessation of external forces
+
+
+
+
+
+13. Calculate the charge of all electrons in a water molecule $\mathrm{H_2O}$ containing two hydrogen atoms $\mathrm{^1_1H}$ and one oxygen atom \mathrm{^{16}_8O}. Elementary charge $e=1,6\cdot 10^{-19}\ \text{C}$
+A $-5\cdot 10^{-19}\ \text{C}$ 
+B $-1,28\cdot 10^{-18}\ \text{C}$
+*C $-1,6\cdot 10^{-18}\ \text{C}$
+D $-2,88\cdot 10^{-18}\ \text{C}$
+
+
+
+
+
+14. Determine the change in the amount of heat released per unit time in a conductor with constant electrical resistance when the current in the circuit is increased by 4 times.
+A will decrease by 4 times
+B will increase by 2 times
+C will increase by 8 times
+*D will increase 16 times
+
+
+
+
+
+15. State the INCORRECT statement about an electromagnetic wave.
+A An electromagnetic wave is a transverse wave.
+B The propagation of electromagnetic waves requires only an elastic medium.
+C The length of a wave is inversely proportional to its frequency.
+D An electromagnetic wave carries energy and momentum.
+
+
+
+
+
+16. The tourist made an electromagnetic compass from materials at hand. To do this, he connected the poles of the galvanic element with a wire so that a round coil was formed. The tourist hung the resulting construction on a thread. After a while, it stopped moving and settled as shown in the picture. Determine in which direction (A - D) north is one of the four main sides of the horizon. [](https://drive.google.com/uc?id=1mT8jHFJz6V94lm0JXnHEOWwA3JV-nQUD) 
+A 
+*B(Б) 
+C(В) 
+D(Г) 
+
+
+
+
+
+17. In the first case, the light beam passes from medium 1 to medium 2, and in the second from medium 3 to medium 4 as shown in the figures. Taking into account that - the absolute indices of refraction of the media $n_1,\ n_2,\ n_3,\ n_4$, indicate from among the given ratios those that correspond to the figures. [](https://drive.google.com/uc?id=1UYwl-NzRpbOdJUKNUzsq8BPOWEJE7MNQ) 
+A 
+*B 
+C 
+D 
+
+
+
+
+
+18. What phenomenon involving light causes the multi-colored coloring of a soap bubble?
+A reflection
+B scattering
+*C interference
+D refraction
+
+
+
+
+
+19. What interaction is the main cause of the scattering of alpha particles as they pass through the gold foil in Rutherford's experiment?
+A gravitational
+*B coulomb
+C magnetic
+D nuclear
+
+
+
+
+
+20. Determine which nuclide will be formed from the Thorium $^{234}_{90}\mathrm{Th}$ nucleus after three alpha decays and two beta decays.
+A $^{220}_{84}\mathrm{Po}$
+*B $^{222}_{86}\mathrm{Rn}$
+C $^{220}_{86}\mathrm{Rn}$
+D $^{210}_{80}\mathrm{Hg}$
+
+
+
+
+
+21-1. Match the following examples with Newton's first law: A. Reducing the mass of a racing car led to faster acceleration. B. As a result of sharp braking, the car's brake pads heat up. C. Stone thrown vertically upwards fell on the surface of the earth. D. If the force of friction compensates for the force of gravity, then the raindrop falls to the ground uniformly in a straight line. 
+A 
+B 
+C 
+*D 
+
+
+
+
+
+21-2. Match the following examples with Newton's second law: A. Reducing the mass of a racing car led to faster acceleration. B. As a result of sharp braking, the car's brake pads heat up. C. Stone thrown vertically upwards fell on the surface of the earth. D. If the force of friction compensates for the force of gravity, then the raindrop falls to the ground uniformly in a straight line. 
+*A 
+B 
+C 
+D 
+
+
+
+
+
+21-3. Match the following examples with Newton's third law: A. Reducing the mass of a racing car led to faster acceleration. B. As a result of sharp braking, the car's brake pads heat up. C. Stone thrown vertically upwards fell on the surface of the earth. D. The force of the blow caused by a mosquito flying into the windshield of a moving car is equal to the force of the blow caused by the windshield on a mosquito. 
+A 
+B 
+C 
+*D 
+
+
+
+
+
+21-4. Match the following examples with Law of universal gravitation: A. Reducing the mass of a racing car led to faster acceleration. B. As a result of sharp braking, the car's brake pads heat up. C. Stone thrown vertically upwards fell on the surface of the earth. D. If the force of friction compensates for the force of gravity, then the raindrop falls to the ground uniformly in a straight line. 
+A 
+B 
+*C 
+D 
+
+
+
+
+
+22-1. Match the physical phenomenon wetting and its practical application: A) bimetallic regulators B) premises heating C) varnishing of surfaces D) diesel engines 
+A 
+B 
+*C 
+D 
+
+
+
+
+
+22-2. Match the physical phenomenon expansion due to heating and its practical application: A) bimetallic regulators B) premises heating C) varnishing of surfaces D) diesel engines 
+*A 
+B 
+C 
+D 
+
+
+
+
+
+22-3. Match the physical phenomenon heating during adiabatic compression and its practical application: A) bimetallic regulators B) premises heating C) varnishing of surfaces D) diesel engines 
+A 
+B 
+C 
+*D 
+
+
+
+
+
+22-4. Match the physical phenomenon convection and its practical application: A) bimetallic regulators B) premises heating C) varnishing of surfaces D) diesel engines 
+A 
+*B 
+C 
+D 
+
+
+
+
+
+23-1. Select technical application for arc discharge physical phenomenon: A) glow of neon lamps and gas light tubes B) obtaining pure copper and other non-ferrous metals C) electric welding and metal cutting D) air purification from smoke and dust particles
+A 
+B 
+*C 
+D 
+
+
+
+
+
+23-2. Select technical application for spark discharge physical phenomenon: A) glow of neon lamps and gas light tubes B) ignition of the working mixture in the cylinder of the internal combustion engine C) electric welding and metal cutting D) air purification from smoke and dust particles
+A 
+*B 
+C 
+D 
+
+
+
+
+
+23-2. Select technical application for glowing discharge physical phenomenon: A) glow of neon lamps and gas light tubes B) ignition of the working mixture in the cylinder of the internal combustion engine C) electric welding and metal cutting D) air purification from smoke and dust particles
+*A 
+B 
+C 
+D 
+
+
+
+
+
+23-4. Select technical application for corona discharge physical phenomenon: A) glow of neon lamps and gas light tubes B) obtaining pure copper and other non-ferrous metals C) electric welding and metal cutting D) air purification from smoke and dust particles
+A 
+B 
+C 
+*D 
+
+
+
+
+
+24-1. Match the physical body (neutron as part of an alpha particle) with the forces that most affect its motion: A) gravity B) Coulomb forces C) the force of friction D) nuclear forces
+A 
+B 
+C 
+*D 
+
+
+
+
+
+24-2. Match the physical body (bullets at the moment of collision with armor) with the forces that most affect its motion: A) gravity B) Coulomb forces C) the force of friction D) elastic strength
+A 
+B 
+C 
+*D 
+
+
+
+
+
+24-3. Match the physical body (the Moon around the Earth) with the forces that most affect its motion: A) gravity B) Coulomb forces C) the force of friction D) nuclear forces
+*A 
+B 
+C 
+D 
+
+
+
+
+
+24-4. Match the physical body (electron in an atom) with the forces that most affect its motion: A) gravity B) Coulomb forces C) the force of friction D) nuclear forces
+A 
+*B 
+C 
+D 
+
+
+
+
