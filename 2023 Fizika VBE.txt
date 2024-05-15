@@ -1,0 +1,750 @@
+01. Koks yra kūno judėjimas, kai jo koordinatė kinta tiesiog proporcingai laiko kvadratui?
+A Tiesiaeigis tolyginis
+*B Tiesiaeigis tolygiai kintamas
+C Kreivaeigis netolygiai kintamas
+D Svyravimas apie pusiausvyros padėtį
+
+
+
+
+
+02. Kūno masės centrą vienu metu veikia 12 N ir 24 N jėgos. Jos tarpusavyje gali būti orientuotos įvairiais kampais. Kuriuo atveju teisingai nurodytas visas atstojamosios jėgos, galinčios veikti kūną, intervalas?
+A 0 N – 24 N
+B 10 N – 36 N
+C 12 N – 24 N
+*D 12 N – 36 N
+
+$F_{max} = F_1 + F_2 = 36$ $F_{min} = F_2 - F_1 = 12$
+
+
+
+03. Kuris iš pateiktų dydžių yra skaliarinis?
+A Linijinis greitis
+B Įcentrinis pagreitis
+C Atoveikio jėga
+*D Mechaninis darbas
+
+
+
+
+
+04. Kiek kartų reikia padidinti horizontaliai metamo kūno greitį, kad, išmetimo aukštį sumažinus du kartus, kūnas horizontalia kryptimi nuskrietų tokį patį atstumą?
+*A $\sqrt{2}$ karto
+B 2 kartus
+C $\sqrt{10}$ karto
+D 4 kartus
+
+
+
+
+
+05. Paveiksle pavaizduoti penki vienodi rutuliukai, kurie surišti lengvu netampriu siūlu, permestu per lengvą skridinį. Kokio didumo pagreitį įgis tokia surištų rutuliukų sistema? Laisvojo kritimo pagreitis 10 $m/s^2$. Trinties nepaisykite. [](https://drive.google.com/uc?id=1dXjOCigaxVU-aSLozZLllU0UYtvo-S3O)
+A 1 $m/s^2$
+*B 2 $m/s^2$
+C 3 $m/s^2$
+D 5 $m/s^2$
+
+
+
+
+
+06. Kūnas tolygiai juda apskritimu, kurio spindulys R. Kuriuo atveju ryšys tarp kūno kampinio greičio $\omega$ ir linijinio greičio $v$ nurodytas teisingai?
+A $\omega = v \cdot R$
+B $\omega = v^2 / R$
+*C $v = \omega \cdot R$
+D $v = \omega^2 \cdot R$
+
+
+
+
+
+07. Planetos X masė ir spindulys yra dvigubai didesni už planetos Y masę ir spindulį. Palyginkite laisvojo kritimo pagreitį $g_x$ planetos X paviršiuje su laisvojo kritimo pagreičiu $g_x$ planetos Y  paviršiuje.
+A $g_x = 2g_y$
+B $g_x = 4g_y$
+*C $g_x = g_y/2$
+D $g_x = g_y/4$
+
+
+
+
+
+08. Kulka, kurios masė m,skriejo greičiu v. Jai įsmigus į sieną, pusė kinetinės energijos virto kulkos vidine energija. Kuriuo atveju kulkos temperatūros pokytis yra išreikštas teisingai? (c yra  medžiagos, iš kurios pagaminta kulka, savitoji šiluma.)
+A $\frac{mv^2}{4c}$
+B $\frac{2mc}{v^2}$
+C $\frac{v^2}{2c}$
+*D $\frac{v^2}{4c}$
+
+
+
+
+
+09. Į uždarą 10 litrų tūrio indą, kuriame yra sauso oro, įpilta 173 mg vandens. Kam bus lygus inde esančio oro santykinis drėgnis 20 $\deg$C temperatūroje, kai visas vanduo virs garais? Sočiųjų vandens garų tankis, esant 20 $\deg$C temperatūrai, yra 17,3 $g/m^3$.
+*A 100 %
+B 70 %
+C 20 %
+D 10 %
+
+
+
+
+
+10. Adata plūduriuoja vandens paviršiuje. Kas atsveria jos sunkį?
+A Keliamoji Archimedo jėga
+B Skysčio stulpelio slėgis
+*C Skysčio paviršiaus įtempio ir Archimedo jėgų suma
+D Skysčio paviršiaus įtempio ir Archimedo jėgų skirtumas
+
+
+
+
+
+11. Ką reikėtų pakeisti plokščiajame kondensatoriuje, kad jo elektrinė talpa padidėtų?
+A Padidinti atstumą tarp plokštelių
+*B Sumažinti atstumą tarp plokštelių
+C Sumažinti kondensatoriaus plokštelių plotą
+D Iš tarpo tarp plokštelių pašalinti dielektriką
+
+
+
+
+
+12. Paveiksle pavaizduotą elektros grandinę sudaro rezistoriai R1 ir R2, du idealieji diodai ir galvaninis elementas (jo vidinės varžos nepaisoma). Kai gnybtas A prijungiamas prie galvaninio elemento teigiamojo poliaus, o gnybtas B – prie neigiamojo, grandinės vartojama galia lygi 7,2 W. Kai tas pats galvaninis elementas prijungiamas, sukeitus gnybtų ženklus, grandinės vartojama elektros energijos galia tampa 14,4 W. Kam lygus rezistorių varžų santykis $\frac{R_1}{R_2}$? [](https://drive.google.com/uc?id=1Xa_cwklPF8CmLpO9FnKd_dN7AniK7iqb)
+A 1/2
+B 1/4
+*C 2
+D 4 
+
+
+
+
+
+13. Kas yra krūvio nešėjai dujose?
+A Tik jonai
+B Tik laisvieji elektronai
+*C Jonai ir elektronai
+D Elektronai ir skylės
+
+
+
+
+
+14. Paveiksle pavaizduotoje elektros grandinės dalyje viršutine šaka teka I = 3 A stiprio elektros srovė, R1 = 10 Ω ir R2 = 30 Ω. Kam lygi bendra šios grandinės dalies varža ir įtampa tarp taškų A ir B? [](https://drive.google.com/uc?id=1Oc9Z3QR04swwrndKV-tq-ZjkK4cNhcg3)
+A 40 Ω, 120 V
+B 40 Ω, 30 V
+C 7,5 Ω, 120 V
+*D 7,5 Ω, 30 V
+
+ 
+
+
+
+15. Kiek kartų ir kaip pakis elektros srovės stipris paveiksle pavaizduotoje elektros grandinės dalyje, įjungus jungiklį J? Įtampa tarp gnybtų išlieka tokia pati, o visų rezistorių varža yra vienoda. 
+A 1,5 karto padidės
+B 1,5 karto sumažės
+*C 1,1 karto padidės
+D 1,1 karto sumažės
+
+
+
+
+
+16. Elektromagnetinei indukcijai demonstruoti naudojama ritė, strypinis magnetas ir galvanometras G. Kuriuo atveju pagal galvanometro rodmenis galima nuspręsti, kad magnetas nejuda? [](https://drive.google.com/uc?id=11P1I7vIH2EmkzzOwXWAfJJ-zsp2kRunw)
+A a ir b
+B Tik b
+C a ir c
+*D Tik c
+
+
+
+
+
+17. Kurioje terpėje elektromagnetinių bangų sklidimo greitis apytiksliai lygus 300 000 km/s?
+A Lede 
+B Stikle
+*C Vakuume
+D Vandenyje
+
+
+
+
+
+18. Šviesos spindulys iš oro pereina į stiklo plokštelę, krisdamas į ją statmenai. Kokia bus tolesnė šio spindulio eiga? [](https://drive.google.com/uc?id=1dq2xUdxToV6S3-MjgKUBPAhP0D2IHxgo) 
+A  
+*B 
+C 
+D 
+
+
+
+
+
+19. Kam gali būti naudojami šviesolaidžiai?
+A Tik informacijai perduoti
+B Tik šviesos srautui nukreipti į įrenginį
+C Tik sunkiai prieinamoms vietoms apšviesti ir apžiūrėti
+*D Visi variantai teisingi
+
+
+
+
+
+20. Kuriuo reiškiniu yra pagrįstas transformatoriaus veikimas?
+A Saviindukcija
+B Elektrostatine indukcija
+*C Elektromagnetine indukcija
+D Elektromagnetinių bangų interferencija
+
+
+
+
+
+21. Du nuosekliai sujungti vienodos elektrinės talpos kondensatoriai įelektrinami ir prijungiami prie ritės. Kaip pasikeistų elektromagnetinių virpesių periodas kontūre, jei kondensatoriai tarpusavyje būtų sujungti lygiagrečiai?
+*A Padidėtų du kartus
+B Sumažėtų du kartus
+C Padidėtų keturis kartus
+D Sumažėtų keturis kartus
+
+
+
+
+
+22. Sujungus paveiksle pavaizduotą kintamosios elektros srovės grandinę, stebimas rezonansas. Kam lygus ritės ir kondensatoriaus reaktyviųjų varžų santykis $\frac{X_L}{X_C}$? [](https://drive.google.com/uc?id=1DyYzhGj9_10LwowoZCxtj8nVOmF03X_w)
+*A 1
+B 2
+C 3
+D 4
+
+
+
+
+
+23. Viename difrakcijos gardelės milimetre yra 250 rėžių. Kokios didžiausios eilės spektras bus užfiksuotas, kai į šią gardelę statmenai kris $5 \cdot 10^{−5}$ cm bangos ilgio elektromagnetinė spinduliuotė?
+A 2
+B 4
+C 6
+*D 8
+
+d sin(φ) = k λ       k = (d sin(φ) ) / λ          d = 1 / (250 * 10) = 1/2500 (cm)           k = ((1/2500) sin( pi/2 ) ) / (5 * 0.00001) = 8
+
+
+
+24. Eksperimento metu tiriant fotoefekto dėsningumus, cinko plokštelė buvo pakeista sidabro plokštele. Kuris iš išvardytų fizikinių dydžių po plokštelės pakeitimo išliko toks pat? 
+A Išlaisvintų elektronų kinetinė energija
+B Fotoefekto raudonoji riba
+C Elektronų stabdymo įtampa
+*D Soties fotosrovės stipris
+
+
+
+
+
+25. Urano rūdoje rasta $^{234}_{92}\mathrm{U}$ , $^{235}_{92}\mathrm{U}$ ir $^{238}_{92}\mathrm{U}$ izotopų. Kurioje eilutėje vieno iš šių izotopų branduolio sudėtis nurodyta teisingai?
+*A Protonų skaičius 92  Neutronų skaičius 146
+B Protonų skaičius 146  Neutronų skaičius 92
+C Protonų skaičius 235  Neutronų skaičius 147
+D Protonų skaičius 92  Neutronų skaičius 238
+
+
+
+
+
+26. Kokią funkciją branduoliniuose reaktoriuose atlieka tokios medžiagos kaip grafitas (anglis) arba sunkusis vanduo $\mathrm{D}_2\mathrm{O}$? 
+A Spinduliuoja neutronus
+B Greitina neutronus
+*C Lėtina neutronus
+D Sugeria neutronus
+
+
+
+
+
+27. Šviesa vakuume per 5 metus nusklinda apytiksliai $4.73  10^{16}$ m atstumą. Koks tai atstumas astronominiais vienetais? Vienas šviesmetis lygus 63241 astronominiam vienetui.
+A 63241 av 
+B 632410 av 
+*C 316205 av
+D 12648 av
+
+
+
+
+
+28. Kaip vadinama Mėnulio fazė, kai Mėnulis atsiduria tiesiai tarp Žemės ir Saulės?
+*A Jaunatis
+B Delčia
+C Pilnatis
+D Priešpilnis
+
+
+
+
+
+29. Kokį tolimos žvaigždės gyvavimo tarpsnį stebi astronomai, žiūrėdami į ją pro teleskopą?
+A Dabartį
+*B Praeitį
+C Ateitį
+D Teisingi A ir B atsakymai
+
+
+
+
+
+30. Plutono orbitos spindulys 40 av, o Neptūno orbitos spindulys 30 av. Kurio dangaus kūno skriejimo aplink Saulę periodas yra ilgesnis ir kiek apytiksliai kartų?
+A Neptūno, 1,6 karto
+*B Plutono, 1,5 karto
+C Neptūno, 1,4 karto
+D Plutono, 1,3 karto
+
+$ \frac{T_{\mathrm{Pluto}}^2}{T_{\mathrm{Neptune}}^2} = \frac{a_{\mathrm{Pluto}}^3}{a_{\mathrm{Neptune}}^3} = \frac{40^3}{30^3} = \frac{64000}{27000} \approx 2.37$     $\sqrt{2.37} = 1.53948...$
+
+
+
+II-1 Variklio galia. Koks SI matavimo vienetų žymėjimas?
+A Džiaulis (J)
+B Kelvinas (K)
+C Niutonas (N)
+*D Vatas (W)
+
+
+
+
+
+II-2 Mechaninis įtempis. Koks SI matavimo vienetų žymėjimas?
+*A Paskalis (Pa)
+B Niutonas (N)
+C Džiaulis (J)
+D Kelvinas (K)
+
+
+
+
+
+II-3 Magnetinės indukcijos srautas. Koks SI matavimo vienetų žymėjimas?
+A Amperas (A)
+*B Vėberis  (Wb)
+C Tesla (T)
+D Henris (H)  
+
+
+
+
+
+II-4 Svyravimų periodas. Koks SI matavimo vienetų žymėjimas?
+A Metras (m)
+B Hercas (Hz)
+*C Sekundė (s)
+D Niutonas (N)
+
+
+
+
+
+II-5 Šviesos kvanto impulsas. Koks SI matavimo vienetų žymėjimas?
+A Kulonas (C)
+*B Niutonas sekundė (Ns) 
+C Sekundė (s)
+D Kandela  (cd)
+
+
+
+
+
+II-6 Bandymų metu 25 m/s greičiu važiuojantis automobilis atsitrenkia į sieną ir staigiai sustoja, o 65 kg masės vairuotojo manekenas dar 0.2 s juda iš inercijos, kol jį sustabdo saugos diržai. Apskaičiuokite jėgos, kuri veikia manekeną, vidutinę vertę niutonais.
+A  7127 (N)
+*B 8125 (N)
+C 5134 (N)
+D 18478 (N)
+
+$F = \frac{Δp}{t} = \frac{m \cdot v}{t} = \frac{25 \cdot 65}{0.2} = 25*65/0.2 = 8125$
+
+
+
+II-7 Idealiųjų vienatomių dujų slėgis lygus 15 kPa, o atomų koncentracija yra $3 \cdot 10^{25} m^{−3}$. Kam lygi šių dujų vieno atomo slenkamojo judėjimo vidutinė kinetinė energija džauliais? 
+*A $7.5 \cdot 10^{-22}$
+B $9.4 \cdot 10^{-22}$
+C $6.5 \cdot 10^{-22}$
+D $7.2 \cdot 10^{-22}$
+
+$p=\frac{1}{3} m_0 n v^2 = \frac{2}{3} n  \frac{m_0 v^2}{2} = \frac{2}{3} n  E_k$   =>  $E_k = \frac{3}{2} \frac{p}{n} = \frac{3}{2} \frac{15000}{3 \cdot 10^{25}} = 7.5 \cdot 10^{-22}$
+
+
+
+II-8 Elektros lemputės, kurios galia 60 W, standartinė įtampa yra 220 V. Kam bus lygi lemputėje išsiskyrusios elektros srovės galia vatais, jei lemputei tiekiama įtampa sumažės dvigubai? Laikykite, kad, mažinant įtampą, lemputės varža nekinta.
+A 52 (W)
+B 17  (W)
+*C 15 (W)
+D 5  (W)
+
+$P=UI=\frac{U^2}{R}$ => $R=UI=\frac{U^2}{P}=\frac{220^2}{60}=806.66(6)$ => $P_2=\frac{110^2}{R}=\frac{110^2 60}{220^2} = 15 (W)$
+
+
+
+II-9 Kondensatoriaus reaktyvioji varža 600 Hz dažnio kintamosios srovės grandinėje yra 2.2 kΩ. Kokia būtų šio kondensatoriaus reaktyvioji varža omais 2.4 kHz dažnio kintamosios srovės grandinėje?
+A 510 (Ω)
+B 560 (Ω)
+C 540 (Ω)
+*D 550 (Ω)
+
+$X_C=\frac{1}{ωC}$ => $C=\frac{1}{ωX_C}=\frac{1}{600 * 2200}$ => $X2_C=\frac{1}{ω_2C}=\frac{1}{2400C}=\frac{600 * 2200}{2400} = 550 $
+
+
+
+II-10  Kuri dalis radioaktyviųjų francio $^{221}_{87}\mathrm{Fr}$ izotopo branduolių suskils per laiką, lygų trims pusėjimo trukmėms?
+A 0.125
+B 1.025
+C 0.025
+*D 0.875
+
+Po pirmo pusėjimo liko $\frac{1}{2} $. Po antro pusėjimo liko $\frac{1}{2} * \frac{1}{2}$. Po antro pusėjimo liko $\frac{1}{2} * \frac{1}{2} * \frac{1}{2} = 0.125$ => Reiškia sumažėjo $1-0.125=0.875$
+
+
+
+III-1 Nuo 10 m/s greičiu tiesiu kelio ruožu važiuojančio traukinio atkabintas $10^4$ kg masės paskutinis vagonas lėtėja pastoviu $0.25 m/s^2$ pagreičiu, o traukinys toliau važiuoja tuo pačiu greičiu. 1. Kokio didumo jėga stabdo atkabintą vagoną?
+A 2700 (N)
+*B 2500 (N)
+C 25000 (N) 
+D 26000 (N) 
+
+$F=ma=10^4 * 0.25 = 2500$
+
+
+
+III-1 Nuo 10 m/s greičiu tiesiu kelio ruožu važiuojančio traukinio atkabintas $10^4$ kg masės paskutinis vagonas lėtėja pastoviu $0.25 m/s^2$ pagreičiu, o traukinys toliau važiuoja tuo pačiu greičiu. 2. Kokį atstumą nuvažiuos atkabintas vagonas, kol sustos?
+A 2000 (m)
+*B 200 (m)
+C 20 (m) 
+D 250 (m) 
+
+$a=\frac{v-v_0}{t}$ => $t=\frac{v-v_0}{a}=\frac{10-0}{0.25}=40 (s)$   $L=v_0 \cdot t - \frac{a t^2}{2} = 10 * 40 - \frac{0.25 * 40^2}{2}=200$
+
+
+
+III-1 Nuo 10 m/s greičiu tiesiu kelio ruožu važiuojančio traukinio atkabintas $10^4$ kg masės paskutinis vagonas lėtėja pastoviu $0.25 m/s^2$ pagreičiu, o traukinys toliau važiuoja tuo pačiu greičiu. 3. Pateikite atkabinto vagono greičio priklausomybės nuo laiko išraišką $v = v(t)$.
+A $v(t)=100-0.025t$
+B $v(t)=10+0.25t$
+*C $v(t)=10-0.25t$
+D $v(t)=100-0.5t$
+
+$a=\frac{v-v_0}{t}$ => $v=v_0+at=10-0.25t$ nes a=-0.25
+
+
+
+III-1 Nuo 10 m/s greičiu tiesiu kelio ruožu važiuojančio traukinio atkabintas $10^4$ kg masės paskutinis vagonas lėtėja pastoviu $0.25 m/s^2$ pagreičiu, o traukinys toliau važiuoja tuo pačiu greičiu. 4. Užrašykite išraišką, pagal kurią būtų galima apskaičiuoti pasipriešinimo jėgų darbą, atliktą visiškai sustabdant atkabintą vagoną.
+*A A=Fs
+B A=F/s
+C A=s/F 
+D $A=F/s^2$
+
+
+
+
+
+III-1 Nuo 10 m/s greičiu tiesiu kelio ruožu važiuojančio traukinio atkabintas $10^4$ kg masės paskutinis vagonas lėtėja pastoviu $0.25 m/s^2$ pagreičiu, o traukinys toliau važiuoja tuo pačiu greičiu. 5. Su kuo susietą atskaitos sistemą (su važiuojančiu traukiniu ar su atkabintu vagonu) stotyje esantis stebėtojas gali laikyti inercine atskaitos sistema?
+*A Su traukiniu
+B Su vagonu
+C Su traukiniu ir vagonu
+D Nei su vienu
+
+
+
+
+
+III-2 Kūnas, kurio masė 0.5 kg, slysta žemyn lygiu nuožulniosios plokštumos paviršiumi. Laisvojo kritimo pagreitis lygus 10 $m/s^2$. Atsakydami į klausimus, trinties nepaisykite. Plokštumos kampas α = 60°.   1. Kokios jėgos ir kokia kryptimi veikia kūną.
+A Sunkio jėga nukreipta žemyn.
+*B Sunkio jėga nukreipta žemyn ir nuožulniosios plokštumos reakcijos jėga N statmenai plokštumai, bet kryptimi nuo plokštumos.
+C Sunkio jėga nukreipta žemyn ir trinties jėga nukreipta horizontaliai.
+D Trinties jėga nukreipta horizontaliai ir nuožulniosios plokštumos reakcijos jėga N statmenai plokštumai, bet kryptimi į plokštumą.
+
+
+
+
+
+III-2 Kūnas, kurio masė 0.5 kg, slysta žemyn lygiu nuožulniosios plokštumos paviršiumi.  Laisvojo kritimo pagreitis lygus 10 $m/s^2$. Atsakydami į klausimus, trinties nepaisykite. Plokštumos kampas α = 60°. 2. Kam apytiksliai lygus nuožulniąja plokštuma slystančio kūno pagreičio didumas?
+A a≈8.1 $m/s^2$
+*B a≈8.7 $m/s^2$
+C a≈6.4 $m/s^2$
+D a≈5.6 $m/s^2$
+
+$F=ma$ => $a=F/m=mgsin(α)/m=gsin(α)=10*sind(60)≈8.66$ 
+
+
+
+III-2 Kūnas, kurio masė 0.5 kg, slysta žemyn lygiu nuožulniosios plokštumos paviršiumi.  Laisvojo kritimo pagreitis lygus 10 $m/s^2$. Atsakydami į klausimus, trinties nepaisykite. Plokštumos kampas α = 60°. 3. Kokio didumo pagreičiu tos pačios plokštumos paviršiumi slystų 10 kartų didesnės masės kūnas? 
+A a≈81 $m/s^2$
+*B a≈8.7 $m/s^2$
+C a≈87 $m/s^2$
+D a≈5.6 $m/s^2$
+
+$a=gsin(α)=10*sind(60)≈8.66$ Masė pagreičio formulėje išsiprastina.
+
+
+
+III-2 Kūnas, kurio masė 0.5 kg, slysta žemyn lygiu nuožulniosios plokštumos paviršiumi.  Laisvojo kritimo pagreitis lygus 10 $m/s^2$. Atsakydami į klausimus, trinties nepaisykite. Plokštumos kampas α = 60°. 4. Kuris sakinys, teisingai apibūdina svorio apibrėžimą. 
+A Svoris - tai jėga, kuria svarstyklės veikia kūną
+*B Svoris - tai jėga, kuria gravitacija veikia kūną
+C Svoris - tai jėga, kuria plokštuma  veikia kūną
+D Nei vienas atsakymas neteisingas
+
+
+
+
+
+III-2 Kūnas, kurio masė 0.5 kg, slysta žemyn lygiu nuožulniosios plokštumos paviršiumi.  Laisvojo kritimo pagreitis lygus 10 $m/s^2$. Atsakydami į klausimus, trinties nepaisykite. Plokštumos kampas α = 60°. 5. Apskaičiuokite jėgos, kuria 0,5 kg kūnas slegia nuožulniąją plokštumą, didumą.
+A 2.7 (N)
+B 2.2 (N)
+C 5.1 (N)
+*D 2.5 (N)
+
+$N=mgsin(90-α)=0.5*10*sind(30)=2.5$ N
+
+
+
+III-3 Diagramoje pavaizduotas uždaras vieno molio idealiųjų vienatomių dujų ciklas ABCDA. 1. Užrašykite, kam lygus atomų skaičius, esantis viename molyje dujų. [](https://drive.google.com/uc?id=1Tb-J1QX6bqCmIehIRzmN9ynnv24sHTyW)
+A $7.022 \cdot 10^{22} mol^{-1}$
+B $6.022 \cdot 10^{23} mol^{-1}$
+*C $1.000 \cdot 10^{3} mol^{-1}$
+D $1.000 \cdot 10^{0} mol^{-1}$
+
+Avogadro skaičius $N_A$
+
+
+
+III-3 Diagramoje pavaizduotas uždaras vieno molio idealiųjų vienatomių dujų ciklas ABCDA. 2. Vidaus degimo variklio naudingumo koeficientas lygus 25 %. Kokio didumo naudingąjį darbą atlieka besiplečiančios dujos, kai, sudegus kurui, išsiskiria 60 000 J šilumos kiekis? [](https://drive.google.com/uc?id=1Tb-J1QX6bqCmIehIRzmN9ynnv24sHTyW)
+A 60000 (J)
+B 15000 (W)
+*C 15000 (J)
+D 30000 (J)
+
+$A_{Naudingas}=A_{Visas} \cdot η = 60000*0.25=15000$ Darbo matas - Džaulis (J)
+
+
+
+III-3 Diagramoje pavaizduotas uždaras vieno molio idealiųjų vienatomių dujų ciklas ABCDA. 3. Remdamiesi pirmuoju termodinamikos dėsniu ir diagramoje pateikta informacija, nustatykite, kurio vieno izoproceso metu (AB, BC, CD ar DA) ir dujoms yra suteikiama šiluma, ir didėja vidinė dujų energija, ir dujos atlieka darbą, t. y. Q > 0, ∆U > 0 ir A >0. Atsakymą pagrįskite. [](https://drive.google.com/uc?id=1Tb-J1QX6bqCmIehIRzmN9ynnv24sHTyW)
+*A AB 
+B BC
+C CD
+D DA
+
+∆U > 0 reiškia turi didėti temperatūra; A > 0  reiškia turi didėti tūris; Pirmas termodinamikos dėsnis sako $Q=∆U+A$ todėl tikrai bus Q > 0
+
+
+
+III-4 Elementariųjų dalelių greitintuve suformuojamas pastoviu greičiu vakuume skriejančių protonų srautas. 1. Sraute gretimi protonai nutolę $10^{−5}$ m atstumu vienas nuo kito. Apskaičiuokite, kam lygi elektrostatinė stūmos jėga tarp gretimų protonų. Proporcingumo koeficientas $k = 9·10^9 N·m^2/C^2$.
+A $4.31·10^{18} N$
+B $2.51·10^{18} N$
+C $2.91·10^{-18} N$
+*D $2.31·10^{-18} N$
+
+$F=\frac{kq^2}{r^2}=\frac{9*10^9*(1.602*10^{-19})^2}{(10^{−5})^2}$
+
+
+
+III-4 Elementariųjų dalelių greitintuve suformuojamas pastoviu greičiu vakuume skriejančių protonų srautas. 2. Kur nukreiptos vieno protono sukurto elektrinio lauko jėgų linijos.
+A Į centrą
+*B Iš centro 
+C Horizontaliai
+D Vertikaliai
+
+
+
+
+
+III-4 Elementariųjų dalelių greitintuve suformuojamas pastoviu greičiu vakuume skriejančių protonų srautas. 3. Viename iš greitinimo etapų protonas praskrieja tarp taškų, tarp kurių yra 200 V įtampa. Apskaičiuokite elektrinio lauko darbą, kuris buvo atliktas, greitinant protoną. Atsakymą pateikite SI matavimo vienetais ir elektronvoltais.
+A $7.204·10^{-17} J = 300 eV$
+*B $3.204·10^{-17} J = 200 eV$
+C $3.904·10^{-18} J = 200 eV$
+D $6.204·10^{-16} J = 451 eV$
+
+$A=q*d*E=q*d*U/d=U*q=1.602*10^{-19}*200=3.204·10^{-17} J$ Arba A = 1 * 200 eV 
+
+
+
+III-4 Elementariųjų dalelių greitintuve suformuojamas pastoviu greičiu vakuume skriejančių protonų srautas. 4. Įvardykite vieną priežastį, kodėl fundamentaliems elementariųjų dalelių tyrimams atlikti yra suvienijamos daugelio šalių ir jų mokslininkų pajėgos.
+A Brangu
+B Daugiau galvų daugiau proto
+C tarptautinis bendradarbiavimas skatina motyvaciją
+*D Visos išvardintos priežastys
+
+
+
+
+
+III-4 Elementariųjų dalelių greitintuve suformuojamas pastoviu greičiu vakuume skriejančių protonų srautas. 5. Vakuume 2 cm atstumu viena nuo kitos yra dvi kondensatoriaus plokštelės. Kokio didumo įtampai esant, erdvėje tarp plokštelių sukuriamas 1 kV/m stiprio elektrinis laukas?
+A 30 V
+*B 20 V
+C 40 V
+D 80 V
+
+$U=E*d=1000*0.02=20$
+
+
+
+III-4 Elementariųjų dalelių greitintuve suformuojamas pastoviu greičiu vakuume skriejančių protonų srautas. 6. Protonai, skriedami $10^6$ m/s greičiu, patenka į erdvę, kurioje vienalyčio elektrinio lauko ir vienalyčio magnetinio lauko linijos yra statmenos vienos kitoms (žr. 2 pav.). Apskaičiuokite, koks turi būti magnetinio lauko indukcijos $\vec{B}$ didumas, kad protonai paveiksle pavaizduotoje erdvėje judėtų tiesia trajektorija. Vienalyčio elektrinio lauko stipris lygus 1 kV/m. [](https://drive.google.com/uc?id=15EiW_eKenjZyXSwk5q_1REb0ndAZpsIv) 
+*A $10^{-3} T$
+B $10^{-6} T$
+C $10^{-2} T$
+D $10^{-4} T$
+
+Magnetinio lauko $F=qvB$ ir elektrinio lauko $F=Eq$ jegos turi būti lygios ir priešingų krypčių. $qvB=Eq$ => $B=E/v=1000/10^6=10^{-3}$
+
+
+
+III-4 Elementariųjų dalelių greitintuve suformuojamas pastoviu greičiu vakuume skriejančių protonų srautas. 7. Nurodykite, kaip pakistų protonų judėjimo trajektorija, jei  paveiksle pavaizduotoje erdvėje išnyktų elektrinis laukas. [](https://drive.google.com/uc?id=15EiW_eKenjZyXSwk5q_1REb0ndAZpsIv) 
+A Nepakistų ir judėtų horizontaliai
+B Pasuktų aukštyn ir judėtų apskritimu
+*C Pasuktų žemyn ir judėtų apskritimu
+D Pradėtų judėti į priešingą pusę
+
+
+
+
+
+III-5 Paveiksle pavaizduota matematinė svyruoklė. Prie L ilgio plono siūlo prikabintas pasvaras paleidžiamas svyruoti, atitraukus jį į kairę nedideliu kampu iš pusiausvyros padėties. Laikoma, kad matematinė svyruoklė svyruoja harmoningai. 1. Nurodykite, kuriose padėtyse (I, II, III ar IV) svyruojantis pasvaras pirmą kartą įgyja didžiausias greičio ir pagreičio absoliučiąsias reikšmes po to, kai buvo paleistas. [](https://drive.google.com/uc?id=1AvxSoQPaR2vlmZcNmt_OmJ2-hLzosB1E) 
+A Greičio I ; Pagreičio II 
+B Greičio II ; Pagreičio II 
+*C Greičio II ; Pagreičio IV
+D Greičio I ; Pagreičio IV 
+ 
+
+
+
+
+III-5 2.Remdamiesi pateiktu pasvaro svyravimų grafiku, apskaičiuokite, kam lygi svyravimo fazė po 10 s nuo svyravimo pradžios. [](https://drive.google.com/uc?id=1xpgJB5g037zxDTVU0jmnOkCRxofFasni)  
+A π/3 rad
+B π/2 rad
+*C 0  rad
+D π rad
+
+φ=ω*t=2π/T * 10 = 2π/2 * 10 = 10π arba 0
+
+
+
+III-5 3. Išmatuotas svyruoklės ilgis lygus 80.0 cm. Kokia šio matavimo santykinė paklaida, jeigu matavimo juostos absoliučioji paklaida ±2 mm?
+A 0.5 %
+B 0.4 %
+C 1.25 %
+*D 0.25 %
+
+ε = ΔL/L = 0.2/80 = 0.0025 => 0.25 %
+
+
+
+III-5 4. Apskaičiuokite, kiek apytiksliai kartų padidėtų svyravimų dažnis, jeigu svyruoklės ilgis būtų sumažintas nuo 80.0 cm iki 65.0 cm.
+*A 1.15
+B  1.71
+C  2.78
+D  0.41
+
+$T=2\pi\sqrt{\frac{l}{g}}$ $f=1/T$ ; $f2/f1=\sqrt{\frac{l1}{l2}}=\sqrt{\frac{80}{60}}=1.15$
+
+
+
+III-6 Mokiniai tyrinėjo glaudžiamuoju lęšiu gautus atvaizdus, naudodamiesi žvake ir ekranu. 1. Pirmojo bandymo metu mokiniai ekrane stebėjo apverstą ir tokių pačių matmenų degančios žvakės atvaizdą. Kur yra atvaizdas ir kur yra žvakė. [](https://drive.google.com/uc?id=1VKeaItaxo5Yr3u5LMvulunziAimUCRxE) 
+*A Žvakė 2F atstumu , atvaizdas 2F atstumu.
+B Žvakė 1F atstumu , atvaizdas 1F atstumu. 
+C Žvakė 3F atstumu , atvaizdas 1F atstumu. 
+D Žvakė 4F atstumu , atvaizdas 4F atstumu. 
+
+
+
+
+
+III-6 Mokiniai tyrinėjo glaudžiamuoju lęšiu gautus atvaizdus, naudodamiesi žvake ir ekranu. 2. Antrojo bandymo metu glaudžiamuoju lęšiu gautas tikras ir du kartus padidintas žvakės atvaizdas. Ekrano atstumas iki lęšio yra 15 cm. Apskaičiuokite atstumą nuo lęšio iki žvakės.
+A 17.1 cm
+*B 7.5 cm
+C 4.5 cm
+D 3.1 cm
+
+Γ=f/d => d=f/Γ => d=15/2=7.5
+
+
+
+III-6 3. Įvardykite, kurį regėjimo sutrikimą – trumparegystę ar toliaregystę – galima koreguoti glaudžiamaisiais lęšiais.
+A Nieko
+B Trumparegystę ir toliaregystę
+C Trumparegystę
+*D Toliaregystę
+
+
+
+
+
+III-6 4.  Kurioje akies vietoje – prieš tinklainę ar už jos – susidaro vaizdas, esant glaudžiamuoju lęšiu koreguojamam regėjimo sutrikimui?
+A Prieš tinklainę
+*B Už tinklainės
+C Tinklainėje
+D Nepasikeičia
+
+
+
+
+
+III-6 5. Įvardykite banginės optikos reiškinį, dėl kurio glaudžiamasis lęšis violetinės spalvos šviesą surenka pagrindinėje optinėje ašyje arčiau lęšio negu raudonos spalvos šviesą.
+A Difrakcija
+B Interferencija
+*C Dispersija 
+D Atspindys
+
+Šviesos dispersija vadinama šviesą apibūdinančio dydžio (lūžio rodiklio) priklausomybė nuo šviesos spalvos (dažnio).
+
+
+
+III-7 Tyrinėdami branduolinius virsmus, mokslininkai nustatė, kad pateiktos helio ir vandenilio izotopų sintezės reakcijos metu išsiskiria 18.35 MeV energijos. $^{3}_{2}\mathrm{He} + ^{2}_{1}\mathrm{D} \rightarrow ^{4}_{2}\mathrm{He} + ^{1}_{1}\mathrm{H}$ 1. Įvardykite elementariąsias daleles, kurių skaičiumi skiriasi elemento izotopų branduoliai.
+A Protonai
+*B Neutronai
+C Protonai ir elektronai
+D Elektronai
+
+
+
+
+
+III-7 Tyrinėdami branduolinius virsmus, mokslininkai nustatė, kad pateiktos helio ir vandenilio izotopų sintezės reakcijos metu išsiskiria 18.35 MeV energijos. 2. Apytiksliai apskaičiuokite šios sintezės reakcijos masės defektą atominiais masės vienetais.
+A 0.20 a.m.v.
+B 0.45 a.m.v.
+*C 0.02 a.m.v.
+D 0.76 a.m.v.
+
+m=E/931.5=18.35/931.5=0.0196994...   Nes. Masės ir energijos sąryšio koeficientas 931.5 MeV/a.m.v.
+
+
+
+III-7 3. Pateikite vieną argumentą, kodėl turėtų sumažėti gamtosaugos problemų, jei energiją gautume branduolių sintezės reaktoriuose.
+*A Neišsiskiria anglies dioksidas
+B Išsiskiria anglies dioksidas
+C Išsiskiria vanduo
+D Išsiskiria deguonis
+
+
+
+
+
+III-7  $^{3}_{2}\mathrm{He} + ^{2}_{1}\mathrm{D} \rightarrow ^{4}_{2}\mathrm{He} + ^{1}_{1}\mathrm{H}$ 4. Kurioje pateiktos sintezės reakcijos lygties pusėje – kairėje ar dešinėje – branduolių rimties masių suma yra didesnė? Atsakymą pagrįskite.
+*A Kairėje
+B Dešinėje
+C Kairėje ir dešinėje
+D Kai kada kairėje, kai kada dešinėje
+
+
+
+
+
+III-7  Tyrinėdami branduolinius virsmus, mokslininkai nustatė, kad pateiktos helio ir vandenilio izotopų sintezės reakcijos metu išsiskiria 18.35 MeV energijos. 5. Degant kurui, anglis jungiasi su deguonimi, ir vienos tokios cheminės reakcijos metu išsiskiria maždaug 5.5 eV energijos. Apskaičiuokite, kiek apytiksliai kartų ši energija yra mažesnė už energiją, kuri išsiskiria, įvykus vienai minėtų izotopų sintezės reakcijai
+A $4 \cdot 10^{-7}$
+B $7 \cdot 10^{-7}$
+C $6 \cdot 10^{-7}$
+*D $3 \cdot 10^{-7}$
+
+$5.5/(18.35 \cdot 1000000)=2.997 \cdot 10^{-7} $
+
+
+
+III-7 Kokį lauką naudoja mokslininkai branduolių sintezės reaktoriuose, spręsdami problemą, kaip vakuume išlaikyti aukštos temperatūros plazmą?  
+A Elektrinį
+*B Magnetinį
+C Gravitacinį
+D Nieko nenaudoja , pati laikosi
+
+
+
+
+
