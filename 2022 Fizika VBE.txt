@@ -1,0 +1,700 @@
+01. Lėktuvas tolygiai skrenda 9 km aukštyje. Kuris teiginys apie lėktuvą veikiančias jėgas yra teisingas?
+A Lėktuvo neveikia sunkio jėga.
+B Lėktuvą veikia tik variklio traukos jėga.
+C Lėktuvo sunkio jėgą atsveria Archimedo jėga.
+*D Lėktuvą veikiančių jėgų atstojamoji lygi nuliui.
+
+
+
+
+
+02. Įsivaizduokite, kad Mėnulyje įrengtoje laboratorijoje atlikti keturių fizikinių dydžių matavimai. I. Dinamometru išmatuotas kūno svoris. II. Svirtinėmis svarstyklėmis nustatyta kūno masė. III. Liniuote išmatuotas skysčio pakilimo kapiliariniu vamzdeliu aukštis. IV. Elektroniniu laikmačiu nustatytas švytuoklės svyravimo periodas. Po to matavimai pakartoti Žemėje, naudojant tokias pačias priemones. Kurio fizikinio dydžio vertė Mėnulyje ir Žemėje sutapo?
+A I
+*B II
+C III
+D IV
+
+
+
+
+
+03. Vandens siurblio galia yra 2500 W, o jo naudingumo koeficientas lygus 40 %. Kokio didumo naudingąjį darbą šis siurblys atliks per 300 s?
+A $0.3 \cdot 10^5$ J
+*B $3.0 \cdot 10^5$ J
+C $7.5 \cdot 10^5$ J
+D $3.0 \cdot 10^7$ J
+
+$A = P \cdot t = 2500 * 300 = 750000$ => $A_{naudingas}= A \cdot $ η = 750000*0.4= 300000$
+
+
+
+04. Inde ir jame plūduriuojančiame plonasieniame cilindre gali būti arba žibalas, arba vanduo. Kuris skystis yra inde, kuris – cilindre? Vandens tankis 1000 $kg/m^3$ , o žibalo tankis 800 $kg/m^3$. [](https://drive.google.com/uc?id=1f_LwJlaQo5FYiqEgWic77BgIzjqXDpvT)   
+A Inde ir cilindre yra vanduo.
+B Inde ir cilindre yra žibalas.
+*C Inde yra vanduo, cilindre – žibalas.
+D Inde yra žibalas, cilindre – vanduo.
+
+
+
+
+
+05. Kūnas pradėjo judėti, veikiamas vienintelės pastovios jėgos. Kuriame grafike teisingai pavaizduota kūno įgytos kinetinės energijos priklausomybė nuo kūną veikiančios jėgos atlikto darbo. [](https://drive.google.com/uc?id=1wsUkAKf8jSUbo_RXjbfti9Eic-_bxqHl)  
+A 
+B 
+C 
+*D 
+
+Energijos tvermės dėsnis, visas darbas pereina į kinetinę energiją
+
+
+
+06. Šlifavimo diskas, kurio spindulys 0.15 m. Besisukančio disko darbinio paviršiaus taškų įcentrinis pagreitis lygus 60 $m/s^2$. Kam lygus disko sukimosi kampinis greitis?
+A 14 rad/s
+*B 20 rad/s
+C 200 rad/s
+D 400 rad/s
+
+$a=v^2/R => v = w R   =>   a=w^2 R  =>      w = \SQRT{a/R} = \SQRT{60/0.15} = 20 $
+
+
+
+07. Netampriu siūlu surišti vienodi tašeliai, veikiami jėgos $\vec{F}$, juda idealiai lygiu horizontaliu paviršiumi. Nustatykite, kaip pasikeis kūnų sistemos pagreitis a ir siūlo įtempimo jėga T, kuomet, nekeičiant kitų sąlygų, pirmasis tašelis bus perkeltas ant trečiojo. [](https://drive.google.com/uc?id=19Nf-L8kE8eL5IE2Q9bsmuM4rPcR1eIze) 
+A a padidės, T padidės
+B a nepakis, T padidės
+*C a nepakis, T sumažės
+D a sumažės, T sumažė
+
+
+
+
+
+08. Kaitinant idealiąsias dujas 0.005 $m^3$ tūrio metaliniame inde, gauta jų slėgio priklausomybė nuo absoliučiosios temperatūros. Naudodamiesi grafiku, apskaičiuokite, kam apytiksliai lygus inde kaitinamų dujų medžiagos kiekis. [](https://drive.google.com/uc?id=1FqirZrPd4OaqXna5jXo5EV3139yMdI4z)  
+A 0.2 mol
+*B 0.4 mol
+C 1.0 mol
+D 2.0 mol
+
+$p \cdot V = n \cdot R \cdot T$  Tai $n  = \frac{p \cdot V}{R \cdot T}  = \frac{5 \cdot 10^5 \cdot 5 \cdot 10^{-3}}{8.314 \cdot 800} \approx 0.375 \approx 0.4 $ 
+
+
+
+09. Kokio didumo darbą atlieka idealiosios dujos, iš 1 būsenos pereidamos į 3 būseną taip, kaip pavaizduota grafike? [](https://drive.google.com/uc?id=1mor9jGf-bGshfhNWLtCW00hWK2Y3WBwb)   
+*A 10 kJ
+B 20 kJ
+C 30 kJ
+D 40 kj
+
+$A=p(V_2-V_1) = 100000*(0.2-0.1)= 10000$
+
+
+
+10. Mokiniai matavo vandens pakilimo kapiliariniais vamzdeliais aukštį, naudodamiesi skirtingo skersmens vamzdelių rinkiniu. Gautus rezultatus pavaizdavę grafiku, mokiniai įsitikino, kad vandens pakilimo kapiliariniu vamzdeliu aukščio priklausomybė nuo vamzdelio vidinio skersmens yra:
+A tiesė;
+B parabolė;
+*C hiperbolė;
+D apskritimo lankas.
+
+h = 2 * σ / ρ * g * r 😀
+
+
+
+11. Grafike pavaizduota, kaip keturiais rezistoriais (I, II, III ir IV) tekančios elektros srovės stipris priklauso nuo įtampos. Kurio rezistoriaus varža yra didžiausia? [](https://drive.google.com/uc?id=1F7u6FOr_e3cZiu1wOKhGXF6N-1kMYGGD) 
+*A I
+B II
+C III
+D IV
+
+I = U / R 😀
+
+
+
+12. Grafike pavaizduota keturių elektros prietaisų (I, II, III ir IV) galia ir jų darbo laikas. Kuris prietaisas atliko didžiausią darbą? [](https://drive.google.com/uc?id=15VsrBTrDMtWv7lhdGHvxg2kl6uL95YNW) 
+A I
+B II
+*C III
+D IV
+
+
+
+
+
+13. Užbaikite sakinį, kad teiginys būtų teisingas. Jei tiriamajame erdvės taške įelektrinti taškiniai kūnai sukuria elektrinius laukus $\vec{E_1}, \vec{E_2}, \vec{E_3}$ ir t. t., tai pagal elektrinių laukų superpozicijos principą atstojamojo elektrinio lauko stipris tame erdvės taške lygus atskirų elektrinių laukų stiprių...
+A skirtumui.
+B aritmetiniam vidurkiui.
+C algebrinei sumai.
+*D geometrinei sumai.
+
+Vektorinė suma būtų geresnis apibrėžimas
+
+
+
+14. Trys vienodos varžos rezistoriai jungiami skirtingais būdais. Kuriuo atveju varža tarp gnybtų bus didžiausia. [](https://drive.google.com/uc?id=1KLnYnMIFIhqFH2yBFcF0Ekuay2J0s_gC)
+*A I
+B II
+C III
+D IV 
+
+
+
+
+
+15. Užbaikite apibrėžimą. Santykinė magnetinė skvarba – tai fizikinis dydis, rodantis, kiek kartų magnetinio lauko indukcija $\vec{B}$ vienalytėje terpėje skiriasi nuo indukcijos $\vec{B_0}$...
+A ore.
+*B vakuume.
+C dujose.
+D nevienalytėje terpėje.
+
+
+
+
+
+16. Kuriuo elektros grandinės elementu tekanti kintamoji elektros srovė paverčiama pastovios krypties pulsuojančia srove?
+A Transformatoriumi
+B Termistoriumi
+C Reostatu
+*D Diodu
+
+
+
+
+
+17. Kaip vadinama elektros srovė, kurios stipris ir kryptis periodiškai kinta?
+A Nuolatinė elektros srovė
+B Pastovios krypties pulsuojanti srovė
+*C Kintamoji elektros srovė
+D Galvaninio elemento srovė
+
+
+
+
+
+18. Grafikuose I ir II pavaizduoti dviejų svyruojančių kūnų nuokrypiai nuo pusiausvyros padėties, laikui bėgant. Kuo skiriasi šių kūnų svyravimai. [](https://drive.google.com/uc?id=1VepKsjt2pbQAvSxEjXZheEokC66IrYeg)  
+A Skiriasi tik svyravimų atskaitos pradžia.
+B Dvigubai skiriasi svyravimų amplitudė.
+C Dvigubai skiriasi svyravimų periodas ir amplitudė.
+*D Skiriasi tik svyravimų dažnis ir periodas.
+
+
+
+
+
+19. Transformatorius kintamosios srovės grandinėje naudojamas:
+*A elektrinei įtampai mažinti ir elektros srovės stipriui didinti;
+B elektrinei įtampai mažinti ir kintamosios srovės periodui didinti;
+C elektros srovės nuostoliams mažinti ir kintamosios srovės dažniui didinti;
+D elektros srovės stipriui mažinti ir elektros srovės galiai didinti.
+
+
+
+
+
+20. Kaip vadinamas šviesos bangos nuokrypis nuo jos tiesiaeigio sklidimo?
+*A Difrakcija
+B Interferencija
+C Poliarizacija
+D Dispersija
+
+
+
+
+
+21. Kokios rūšies bangos gali būti poliarizuotos?
+*A Tik skersinės
+B Tik išilginės
+C Tik garso
+D Visų rūšių bangos
+
+
+
+
+
+22. Kuriuo optiniu reiškiniu yra pagrįstas šviesos perdavimas šviesolaidžiu?
+A Interferencija
+B Šviesos sklaida
+*C Visiškuoju vidaus atspindžiu
+D Šviesos sugertimi
+
+
+
+
+
+23. Kurios savybės būdingos koherentinėms bangoms?
+A Dažnis skirtingas, fazė taip pat skirtinga.
+B Dažnis vienodas, o fazių skirtumas tarp bangų, laikui bėgant, kinta.
+C Dažnis skirtingas, o fazių skirtumas tarp bangų, laikui bėgant, nekinta.
+*D Dažnis vienodas, o fazių skirtumas tarp bangų, laikui bėgant, nekinta.
+
+
+
+
+
+24. Kuri iš nurodytų medžiagų gali padėti žmogui apsisaugoti nuo radiacijos poveikio po branduolinės nelaimės?
+A Polonis
+B Kalcis
+*C Jodas
+D Chloras
+
+
+
+
+
+25. Kaip vadinamas aukštos temperatūros tarpusavyje nesąveikaujančių dujų atomų spinduliuotės spektras?
+A Ištisinis
+*B Linijinis
+C Juostinis
+D Sugerties
+
+
+
+
+
+26. Apšaudomas α dalelėmis stibio $^{121}_{51}\mathrm{Sb}$ branduolys pagauna α dalelę ir išspinduliuoja protoną. Kuri iš pateiktų branduolinės reakcijos lygčių yra teisinga?
+A $^{121}_{51}\mathrm{Sb}+α \rightarrow ^{120}_{50}\mathrm{Sn}+^{1}_{1}\mathrm{H}$
+B $^{121}_{51}\mathrm{Sb}+^{1}_{1}\mathrm{H} \rightarrow ^{122}_{52}\mathrm{Te}+^{1}_{1}\mathrm{H}$
+C $^{121}_{51}\mathrm{Sb}+^{1}_{1}\mathrm{H} \rightarrow ^{122}_{50}\mathrm{Sn}+^{1}_{1}\mathrm{H}$
+*D $^{121}_{51}\mathrm{Sb}+^{4}_{2}\mathrm{He} \rightarrow ^{124}_{52}\mathrm{Sb}+^{1}_{1}\mathrm{H}$
+
+
+
+
+
+27. Kurios planetos yra didžiausia masė, didžiausias skersmuo ir didžiausias palydovų skaičius?
+*A Jupiterio
+B Saturno
+C Urano
+D Neptūn
+
+Reikia pažymėti,kad Jupiteris turi 91 palydovus, o Saturnas turi 146 palydovą. Tad sąlyga šiek tiek nekorektiška.
+
+
+
+28. Ar Mėnulyje galima stebėti poliarines pašvaistes ir orientuotis pagal kompasą?
+A Poliarines pašvaistes stebėti galima, orientuotis pagal kompasą negalima.
+B Poliarinių pašvaisčių stebėti negalima, orientuotis pagal kompasą galima.
+*C Negalima nei stebėti poliarinių pašvaisčių, nei orientuotis pagal kompasą.
+D Galima ir stebėti poliarines pašvaistes, ir orientuotis pagal kompasą.
+
+
+
+
+
+29. Vidutinis atstumas nuo Saulės iki Žemės yra lygus vienam astronominiam vienetui, t. y. $1.5 \cdot 10^11$ m. Kiek laiko Saulės šviesa keliauja iki Žemės?
+*A 500 s
+B 300 s
+C 150 s
+D 100 s
+
+
+
+
+
+30. Geosinchroninis palydovas apskrieja aplink Žemę per tiek pat laiko, per kiek Žemė apsisuka apie savo ašį. Mėnulis apskrieja aplink Žemę apytiksliai per 27 paras. Remdamiesi Keplerio dėsniais, nustatykite, kiek kartų Mėnulio orbitos spindulys yra didesnis už geosinchroninio palydovo orbitos spindulį.
+A 3
+B 6
+*C 9
+D 27
+
+$(T_1/T_2)^2=(R_1/R_2)^3$ => $(27/1)^2)=(R_1/R_2)^3$ => $R_1/R_2=(27/1)^{2/3}=9$
+
+
+
+II-1  Vidutinis greitis. Koks SI matavimo vienetų žymėjimas?
+A J
+B K
+C N
+*D m/s
+
+
+
+
+
+II-2 Šilumos kiekis. Koks SI matavimo vienetų žymėjimas?
+*A J
+B N
+C m/s
+D K
+
+
+
+
+
+II-3 Elektros srovės stipris. Koks SI matavimo vienetų žymėjimas?
+*A Amperas (A)
+B Vėberis  (Wb)
+C Tesla (T)
+D Henris (H)  
+
+
+
+
+
+II-4 Lęšio laužiamoji geba. Koks SI matavimo vienetų žymėjimas?
+A (m)
+B (Hz)
+*C (D)
+D (N)
+
+
+
+
+
+II-5 Fotoelektronų stabdymo įtampa. Koks SI matavimo vienetų žymėjimas?
+A (C)
+*B (V) 
+C (s)
+D (cd)
+
+
+
+
+
+II-6 Paveiksle pavaizduotos trys jėgos, kurių didumai  $F_1 = 7 (N), \:  F_2 = 3 (N), \: F_3 = 3 (N)$. Apskaičiuokite šių  trijų jėgų atstojamosios didumą.  [](https://drive.google.com/uc?id=1QaCSNSB_B1_1Y2vtDsnwwzxUBSh1ZUqe)
+A 7 (N)
+*B 5 (N)
+C 4 (N)
+D 8 (N)
+
+$F_x = F_1 - F_3 = 4 $ $F_y = F_2 = 3 $  $ F = \sqrt{3^2+4^2} = 5 $
+
+
+
+II-7 Į indą su vandeniu įleidžiamas 8 $cm^2$ skerspjūvio ploto vamzdis, prie jo apatinio galo prispaudus plokštelę, kurios masės galima nepaisyti. Per viršutinį vamzdžio galą ant plokštelės, kuri yra h = 20 cm gylyje, lėtai pilamos smulkios geležies drožlės. Vandens tankis 1000 $kg/m^3$, o geležies tankis 7800 $kg/m^3$. Kokia mažiausia drožlių masė kilogramais turi iš viršaus pribyrėti ant plokštelės, kad ji atitrūktų nuo vamzdžio.
+A 0.14  kg
+B 0.42 kg
+C 0.02 kg
+*D 0.16 kg
+
+Slegiai turi būti lygūs q*g*h=mg/S =>  m = q*h*S = 1000 * 0.2 * 0.0008 =  0.16
+
+
+
+II-8. Kiek energijos džauliais sukaupia kondensatorių baterija, kurios elektrinė talpa 1 F, o įtampa 12 V?
+A 52 J
+B 42 J 
+*C 72 J
+D 62 J
+
+W=0.5*C*U^2 => 0.5*1*12^2 = 72
+
+
+
+II-9. Matematinės svyruoklės periodas Žemėje yra toks pat, kaip kitos matematinės svyruoklės periodas Marse. Kiek kartų Žemėje esančios matematinės svyruoklės ilgis didesnis negu Marse esančios svyruoklės ilgis? Laisvojo kritimo pagreitis Žemėje apytiksliai lygus 10 $m/s^2$, o Marse apytiksliai lygus 4 $m/s^2$.
+A 5.2 
+*B 2.5 
+C 2 
+D 4
+
+T= 2\pi \sqrt{l/g} => l1/g1=l2/g2 => l1/l2=g1/g2 = 10/4 = 2.5
+
+
+
+II-10. Per 10 parų radioaktyviojo elemento izotopo aktyvumas sumažėjo lygiai per pusę. Kam lygi šio elemento izotopo pusėjimo trukmė paromis?
+A 20 
+*B 10 
+C 5 
+D 1
+
+Atsakymas seka iš izotopo pusėjimo trukmės apibrėžimo
+
+
+
+III-1 Dviratininko judėjimą horizontaliu kelio ruožu apibūdina koordinatės kitimo lygtis $x=4+t^2$. Fizikiniai dydžiai lygtyje pateikti SI matavimo vienetais. 1. Kokia dviratininko padėtis pradiniu laiko momentu.
+A 5 m
+B 8 m 
+*C 4 m 
+D -2 m
+
+$x(t)=4+t^2$ => $x(0)=4+0^2=4$
+
+
+
+III-1 Dviratininko judėjimą horizontaliu kelio ruožu apibūdina koordinatės kitimo lygtis $x=4+t^2$. 2. Remdamiesi koordinatės kitimo lygtimi, nustatykite dviratininko pradinį greitį $v_0$ ir judėjimo pagreitį a.
+*A $v_0=0$ a=2
+B $v_0=0$ a=4
+C $v_0=4$ a=0
+D $v_0=0$ a=0
+
+$v(t)=x'(t)=2t$ = > $v(0)=x'(0)=0$ ; $a(t)=v'(t)=2$ => $a(0)=2$
+
+
+
+III-1 Dviratininko judėjimą horizontaliu kelio ruožu apibūdina koordinatės kitimo lygtis $x=4+t^2$. 3.  Dviratininko greičio pokytis per 3 s lygus 6 m/s. Apskaičiuokite, kiek pakito šio dviratininko judesio kiekis, jeigu yra žinoma, kad jo masė 60 kg.
+A 160 (kg m/s) 
+B 340 (kg m/s) 
+C 380 (kg m/s) 
+*D 360 (kg m/s) 
+
+Δp=mΔv => Δp=60*6=360
+
+
+
+III-1 Dviratininko judėjimą horizontaliu kelio ruožu apibūdina koordinatės kitimo lygtis $x=4+t^2$. 4.Įvardykite fizikinius dydžius, kuriuos galima sužinoti, apskaičiavus grafikuose (I ir II) užbrūkšniuotų plotų skaitinę vertę. [](https://drive.google.com/uc?id=1mfhkOp-gvvqKqsGkG6MkhNUHlSogX7ea) 
+A I - galutinį pagreitį ; II - nueitą kelią
+B I - galutinį pagreitį ; II - galutinį greitį
+C I - nueitą kelią ; II - greičio pokytį
+*D I - greičio pokytį ; II - nueitą kelią
+
+
+
+
+
+III-1 Dviratininko judėjimą horizontaliu kelio ruožu apibūdina koordinatės kitimo lygtis $x=4+t^2$. 5. Judėjimo kryptimi dviratininkui tiesiai į nugarą pučia vėjas, kurio greitis didesnis už dviratininko greitį. Vėjo greičio didumą atskaitos sistemoje, susietoje su judančiu dviratininku, palyginkite su vėjo greičio didumu atskaitos sistemoje, susietoje su žeme.
+*A Vėjo greitis atskaitos sistemoje, susietoje su dviratininku mažesnis nei greitis atskaitos sistemoje, susietoje su žeme.
+B Vėjo greitis atskaitos sistemoje, susietoje su dviratininku toks pat kaip greitis atskaitos sistemoje, susietoje su žeme.
+C Vėjo greitis atskaitos sistemoje, susietoje su dviratininku didesnis nei greitis atskaitos sistemoje, susietoje su žeme. 
+D A,B,C pateikti variantai blogi.
+
+
+
+
+
+III-2 Žaislinio šautuvo vamzdis yra įtvirtintas ant pakylos taip, kad su horizontu sudaro α=30° kampą. Oro pasipriešinimo ir trinties tarp šovinio bei vidinių vamzdžio sienelių nepaisykite. Laisvojo kritimo pagreitis 10 m/s2. 1. Kaskart atlaisvinus suspaustą 800 N/m standumo spyruoklę, 20 g masės šovinys iš vamzdžio išlekia 4 m/s greičiu. Apskaičiuokite, koks yra spyruoklės deformacijos didumas x, užtaisant šautuvą.
+A 0.01 m 
+B 0.15 m 
+*C 0.02 m
+D 0.25 m 
+
+$E_k=E_p$ => $\frac{mv^2}{2}=\frac{kx^2}{2}$ => $x = v\sqrt{\frac{m}{k}}=4* \sqrt{\frac{0.02}{800}} =0.02$
+
+
+
+III-2 Žaislinio šautuvo vamzdis yra įtvirtintas ant pakylos taip, kad su horizontu sudaro α=30° kampą. 2. Įvardykite, kokios rūšies mechaninės energijos žemės atžvilgiu turi šovinys, kai pasiekia aukščiausią savo trajektorijos tašką.
+A Potencinės
+B Kinetinės
+*C Potencinės ir kinetinės
+D Elektrostatinės
+
+
+
+
+
+III-2 Žaislinio šautuvo vamzdis yra įtvirtintas ant pakylos taip, kad su horizontu sudaro α=30° kampą. 3. Aukščiausią savo trajektorijos tašką šovinys pasiekia per 0.2 s. Šovinys iš vamzdžio išlekia 4 m/s greičiu. Apskaičiuokite maksimalų šovinio pakilimo aukštį h. 
+*A 0.2 m
+B 0.25 m
+C 0.30 m 
+D 0.35 m 
+
+$mgh=mv_y^2/2$ => $mgh=m(vsin(α))^2/2$ => $h=(vsin(α))^2/(2g)=(4*sin(30))^2/(2*10)=0.2$
+
+
+
+III-2 Žaislinio šautuvo vamzdis yra įtvirtintas ant pakylos taip, kad su horizontu sudaro α=30° kampą. 4. Jeigu šaunant vamzdis su horizontu sudarytų 45° kampą, šovinio lėkio nuotolis būtų didžiausias. Kuris įrodymo žingsnis teisingas.
+A $x'(α)<0$
+*B $x'(α)=0$
+C $x'(α)>0$
+D $\int x(α)dx=0$
+
+
+
+
+
+III-3 Bandymo metu buvo tempiama metalinė viela. 1. Ką vadiname deformuojamos vielos absoliučiuoju pailgėjimu.
+A Ilgis gale pdadalintas iš ilgio pradžioje
+B Ilgis gale
+C Ilgis pradžioje
+*D Ilgio pokytis lyginant su pradinių ilgiu
+
+Δl=l2-l1
+
+
+
+III-3 Bandymo metu buvo tempiama metalinė viela. Grafike pavaizduota jos mechaninio įtempio priklausomybė nuo santykinio pailgėjimo. 2. Kurioje grafike pavaizduotos priklausomybės atkarpoje galioja Huko dėsnis? [](https://drive.google.com/uc?id=1zXUng8M-LU1Km-_PN0jxNA26jAtxhKUd) 
+A [0-B]
+B [A-B] 
+*C [0-A] 
+D [0-K]
+
+
+
+
+
+III-3 Bandymo metu buvo tempiama metalinė viela. 3. Vielos mechaninis įtempis yra $4 \cdot 10^8$ Pa. Remdamiesi Huko dėsniu mechaniniam įtempiui, apskaičiuokite šios vielos santykinį pailgėjimą. Metalo, iš kurio pagaminta viela, tampros (Jungo) modulis lygus 200 GPa.
+A 0.02
+B 0.001 
+*C 0.002 
+D 0.005
+
+ε=Δl/l   σ=Eε    ε=σ/E=400000000/200000000000=0.002
+
+
+
+III-3 Bandymo metu buvo tempiama metalinė viela. 4. Metalines atliekas (nereikalingą vielą, panaudotas skardines ir pan.) reikia rūšiuoti ir po to perdirbti. Nurodykite vieną priežastį, kodėl reikia taip daryti
+A Taip patogiau
+B Politikų įgeidis
+*C Ekologija ir žaliavų taupymas.
+D Viso to daryti nereikia
+
+
+
+
+
+III-4 Mokinys sandėlyje rado keletą iš varinės vielos susuktų vienodų ričių. Atlikęs matavimus, jis nustatė, kad vienos ritės varža lygi 27 Ω, o vario masė ritėje yra 0.25 kg 1. Kam būtų lygi dviejų vienodų ričių bendra varža, jei mokinys jas sujungtų nuosekliai?
+A 27 Ω
+*B 54 Ω  
+C 108 Ω 
+D 50 Ω
+
+
+
+
+
+III-4 Mokinys sandėlyje rado keletą iš varinės vielos susuktų vienodų ričių. Atlikęs matavimus, jis nustatė, kad vienos ritės varža lygi 27 Ω, o vario masė ritėje yra 0.25 kg. 2. Apskaičiuokite, kiek metrų vielos sunaudota vienai ritei pagaminti. Vario tankis $ρ = 8.9 \cdot 10^3 kg/m^3$, o jo savitoji varža $ρ_s = 1.68 \cdot 10^–8$ Ωm.
+A 112.7 m 
+B 12.5 m 
+*C 212.5 m
+D 812.1 m 
+
+V=m/ρ=0.25/8900   V=SL   R=ρ_s * L /S  => $R=ρ_s * L^2 / V $ =>   $L = \sqrt{\frac{R*V}{ρ_s}}$ = $\sqrt{\frac{27*0.25}{8900 *1.68 \cdot 10^–8}}$ = 212.5
+
+
+
+III-4 Mokinys sandėlyje rado keletą iš varinės vielos susuktų vienodų ričių. Mokinys tyrinėjo ritę, prie jos artindamas ir nuo jos tolindamas nuolatinį magnetą, prie ritės  prijungęs jautrų galvanometrą. Grafike pateiktas užfiksuotas srovės ritėje kitimas: pūpsnys P1 – artinant magnetą, pūpsnys P2 – tolinant magnetą. Kuriuo atveju – artinant ar tolinant – magnetas ritės atžvilgiu judėjo greičiau? [](https://drive.google.com/uc?id=1LfucHGKeS7BritlSnT1NxlUWZm3X8vJ1)
+A Priklauso nuo pagreičio
+B Grečiai buvo vienodi
+C Artinant
+*D Tolinant
+
+Elektrovara(tuo pačiu ir srovė) tuo stipresnė, kuo greičiau kinta magnetinis srautas. Kuo didwsnis greitis tuo labiau pakinta magnetinis srautas.
+
+
+
+III-4 Mokinys sandėlyje rado keletą iš varinės vielos susuktų vienodų ričių. Mokinys tyrinėjo ritę, prie jos artindamas ir nuo jos tolindamas nuolatinį magnetą, prie ritės  prijungęs jautrų galvanometrą. 4. Kas pasikeistų ritėje, jei magneto polius (šiaurinį ir pietinį) mokinys sukeistų vietomis, o artinimo ir tolinimo greitis išliktų toks pat?
+*A Jei magneto polius mokinys sukeistų vietomis , srovė pakeistų kryptį.
+B Jei magneto polius mokinys sukeistų vietomis , tai niekas nepasikeistų. 
+C Jei magneto polius mokinys sukeistų vietomis , srovė išnyktų.
+D Jei magneto polius mokinys sukeistų vietomis , ritės perdegtų.
+
+
+
+
+
+III-4 Mokinys sandėlyje rado keletą iš varinės vielos susuktų vienodų ričių. Atlikęs matavimus, jis nustatė, kad vienos ritės varža lygi 27 Ω, o vario masė ritėje yra 0.25 kg. 5. Remdamiesi grafiko duomenimis, apskaičiuokite maksimalią momentinę elektrovaros vertę ritėje ties pūpsniu P2. [](https://drive.google.com/uc?id=1LfucHGKeS7BritlSnT1NxlUWZm3X8vJ1)
+A +0.81 V 
+B -0.71 V 
+*C -0.81 V
+D -0.41 V 
+
+E=i*R=-0.03*27=-0.81
+
+
+
+III-4 6.Tris kartus padidinus elektros srovės stiprį 0.25 H induktyvumo ritėje, jos magnetinio lauko energija padidėjo 1 J. Apskaičiuokite elektros srovės stiprio pradinę vertę.
+*A 1 A
+B 2 A 
+C 3 A 
+D 4 A 
+
+$ΔE=E2-E1=LI_2^2/2-LI_1^2/2=L*(3*I_1)^2/2-LI_1^2/2=4LI_1^2$ => $I_1=\sqrt{ΔE/(4L)}=\sqrt{1/(4*0.25)}=1$
+
+
+
+III-5 Atliekant uždarame kontūre vykstančių elektromagnetinių virpesių tyrimą, naudotos šios priemonės: 600 nF talpos kondensatorius, 15 μH induktyvumo ritė ir 12 V galvaninių elementų baterija. Į ritės aktyviąją varžą ir baterijos vidinę varžą neatsižvelgiama. 1. Kondensatorius buvo įelektrintas, atjungtas nuo baterijos ir prijungtas prie ritės. Kokie elektromagnetiniai virpesiai – laisvieji ar priverstiniai – atsirado kontūre?
+A Priverstiniai ir laisvieji
+B Priverstiniai
+*C Laisvieji 
+D Nei tie nei tie
+
+
+
+
+
+III-5 Atliekant uždarame kontūre vykstančių elektromagnetinių virpesių tyrimą, naudotos šios priemonės: 600 nF talpos kondensatorius, 15 μH induktyvumo ritė ir 12 V galvaninių elementų baterija. Į ritės aktyviąją varžą ir baterijos vidinę varžą neatsižvelgiama. 2. Apskaičiuokite iš kondensatoriaus ir ritės sukonstruotame kontūre vykstančių elektromagnetinių virpesių periodą.
+A $1.7 \cdot 10^-4$ 
+*B $1.88 \cdot 10^-5$
+C $8.27 \cdot 10^-8$ 
+D $5.54 \cdot 10^-5$ 
+
+$T=2π\sqrt{LC}=2*\pi*\sqrt{15*10^-6*600*10^-9}=1.88 \cdot 10^-5$
+
+
+
+III-5 Atliekant uždarame kontūre vykstančių elektromagnetinių virpesių tyrimą, naudotos šios priemonės: 600 nF talpos kondensatorius, 15 μH induktyvumo ritė ir 12 V galvaninių elementų baterija. 3. Remdamiesi energijos tvermės dėsniu, apskaičiuokite, kokio didumo yra kontūru tekančios elektros srovės stiprio virpesių amplitudė.
+*A 2.4 A
+B 4.4 A 
+C 2.1 A 
+D 1.4 A
+
+$CU^2/2=LI^2/2$ => $I=U \sqrt{C/L}=12*\sqrt{600*10^-9/(15*10^-6)}=2.4$
+
+
+
+III-5 4. Kaip reikėtų prie kondensatoriaus prijungti dar vieną kondensatorių – nuosekliai ar lygiagrečiai, – kad elektromagnetinių virpesių dažnis padidėtų? 
+*A Nuosekliai
+B Lygiagrečiai
+C Dažnis nepriklauso nuo kondensatoriaus talpos
+D A B ir C variantai neteisingi
+
+Virpesių dažnis atvirkščiai proporcingas kondensatoriaus talpai. Nuosekliai jungiant kondensatorius talpa sumažėja.
+
+
+
+III-6 Siauras šviesos pluoštas krinta į oro ir skaidrios cirkonio plokštelės ribą. Dalis šviesos atsispindi taip, kaip pavaizduota paveiksle, o kita dalis šviesos lūžta. Kampas tarp atsispindėjusio ir lūžusio spindulių yra statusis. Plokštelės lūžio rodiklis oro atžvilgiu lygus 2.15   Padidėja, sumažėja ar nepakinta krintančios šviesos bangos ilgis cirkonyje, jei, spinduliui pereinant ribą tarp oro ir cirkonio, šviesos dažnis nekinta? [](https://drive.google.com/uc?id=1y8BFK5o4AqYaGQnB000rxypDhGFWVB-n) 
+A Padidėja
+B Nepakinta
+*C Sumažėja
+D Visi A, B, C atsakymai geri
+
+Jei dažnis nekinta o šviesos greitis sumažėja tai ir bangos ilgis turi sumažėti.  λ=v/f
+
+
+
+III-6 Siauras šviesos pluoštas krinta į oro ir skaidrios cirkonio plokštelės ribą. Dalis šviesos atsispindi taip, kaip pavaizduota paveiksle, o kita dalis šviesos lūžta. Kampas tarp atsispindėjusio ir lūžusio spindulių yra statusis. Plokštelės lūžio rodiklis oro atžvilgiu lygus 2.15 ; 3. Apskaičiuokite šviesos sklidimo greitį cirkonio plokštelėje.
+A $1 \cdot 10^8$ m/s 
+*B $1.4 \cdot 10^8$ m/s
+C $3 \cdot 10^8$ m/s  
+D $6.45 \cdot 10^8$ m/s 
+
+$v=c/n=300000000/2.15=1.4 \cdot 10^8$
+
+
+
+III-6 Siauras šviesos pluoštas krinta į oro ir skaidrios cirkonio plokštelės ribą. Dalis šviesos atsispindi taip, kaip pavaizduota paveiksle, o kita dalis šviesos lūžta. Kampas tarp atsispindėjusio ir lūžusio spindulių yra statusis. Plokštelės lūžio rodiklis oro atžvilgiu lygus 2.15 ; 4. Remdamiesi šviesos lūžio dėsniu, apskaičiuokite spindulio kritimo į plokštelę kampą.
+A 92° 
+B 74° 
+*C 65°
+D  55°
+
+n=sin(α)/sin(β) = sin(α)/sin(90-α) = sin(α)/cos(α) = tg(α) => α=arctg(n)=arctg(2.12)=1.13 rad  => 1.13*180/3.141 ≈ 64.75°
+
+
+
+III-7 Eksperimentu nustatyta, kad, lazerio šviesa apšvietus fotoelementą, elektros grandine teka 0.1 A fotosrovė. Taip pat pateikti kiti šio eksperimento duomenys: Lazerio šviesos bangos ilgis $λ = 570 10^-9 m$ ; Fotoelemento medžiagos raudonoji riba $λ_R=600 10^-9 m$ ; Lazerio spinduliuotės galia P=1.5 W ; 1. Apibūdinkite elektrono išlaisvinimo darbo sąvoką
+*A Tai minimalus energijos kiekis, kad elektronas išeitų iš medžiagos į aplinką
+B Tai maksimalus energijos kiekis, kad elektronas išeitų iš medžiagos į aplinką 
+C Tai 1 J energijos kiekis
+D Tai energijos kiekis $E = mc^2$
+
+
+
+
+
+III-7 Eksperimentu nustatyta, kad, lazerio šviesa apšvietus fotoelementą, elektros grandine teka 0.1 A fotosrovė. Taip pat pateikti kiti šio eksperimento duomenys: Lazerio šviesos bangos ilgis $λ = 570 10^-9 m$ ; Fotoelemento medžiagos raudonoji riba $λ_R=600 10^-9 m$ ; Lazerio spinduliuotės galia P=1.5 W ; 2. Apskaičiuokite lazerio per sekundę išspinduliuotų fotonų skaičių N.
+A $4.3·10^17$ 
+B $3.3·10^18$ 
+C $3.3·10^16$ 
+*D $4.3·10^18$
+
+$N=Pt/E_{fotono}=Ptλ/(hc)=(1.5*1*570 10^-9)/(6.626*10^-34*3*10^8)=4.3·10^18$
+
+
+
+III-7 Eksperimentu nustatyta, kad, lazerio šviesa apšvietus fotoelementą, elektros grandine teka 0.1 A fotosrovė. Taip pat pateikti kiti šio eksperimento duomenys: Lazerio šviesos bangos ilgis $λ = 570 10^-9 m$ ; Fotoelemento medžiagos raudonoji riba $λ_R=600 10^-9 m$ ; Lazerio spinduliuotės galia P=1.5 W ; 3. Kam lygus lazerio šviesos per sekundę išlaisvintų elektronų skaičius $N_e$ fotoelemente?
+A $7.24·10^17$ 
+*B $6.24·10^17$
+C $8.24·10^17$ 
+D $6.24·10^18$
+
+$N_e=q/e=It/e=0.1*1/(1.602*10^-19) ≈ 6.24·10^17$
+
+
+
+III-7 Eksperimentu nustatyta, kad, lazerio šviesa apšvietus fotoelementą, elektros grandine teka 0.1 A fotosrovė. Taip pat pateikti kiti šio eksperimento duomenys: Lazerio šviesos bangos ilgis $λ = 570 10^-9 m$ ; Fotoelemento medžiagos raudonoji riba $λ_R=600 10^-9 m$ ; Lazerio spinduliuotės galia P=1.5 W ; 4. Kam lygus iš medžiagos išlekiančių elektronų greitis, fotoelementą apšvietus lazerio šviesa? Elektrono masė $9.109·10^-31$ kg.
+*A 196 km/s
+B 2196 km/s 
+C 96 km/s 
+D 6 km/s 
+
+$hc/λ=hc/λ_R+mv^2/2$ => $v=\sqrt{(2hc/m)·(1/λ-1/λ_R)}=\sqrt{((2*6.626*10^-34*3*10^8)/(9.109·10^-31))·(1/(570 10^-9)-1/(600 10^-9 ))}≈196000$
+
+
+
